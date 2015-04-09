@@ -9,7 +9,7 @@ relative_permalinks: true
 # Setup
 title:            Lunchelot
 tagline:          'Lunchelot Blog'
-description:      'Der Lunchelot Blog - Wenn\'s um Dein Mittagessen geht.<br /> Twitter <a href="https://twitter.com/LunchelotDE" target="_blank">@LunchelotDE</a> <a href="https://www.facebook.com/pages/Lunchelot/817285571685255" target="_blank">Facebook</a>.'
+description:      'Der Lunchelot Blog - Wenns um Dein Mittagessen geht.<br /> Twitter <a href="https://twitter.com/LunchelotDE" target="_blank">@LunchelotDE</a> <a href="https://www.facebook.com/pages/Lunchelot/817285571685255" target="_blank">Facebook</a>.'
 url:              http://hyde.getpoole.com
 baseurl:          /
 
