@@ -2,17 +2,20 @@
 layout: post
 title: Lunchelot Einleitung
 category: Allgemeines
+excerpt: Willkommen beim Lunchelot Blog! Lunchelot Einleitung: <i>Warum?</i> Mit dieser Frage beschäftigt sich der erste Eintrag im Blog.
+description: Lunchelot Einleitung: Warum? Mit dieser Frage beschäftigt sich der erste Post im Lunchelot Blog.
 tags:
     - lunchelot
+
 ---
+
+
+## Willkommen beim Lunchelot Blog!
 
 Der Lunchelot Blog soll (Hintergrund-) Information zum <a href="https://lunchelot.de/">Lunchelot Projekt</a> liefern: Neuigkeiten, Umfrageergebnisse,
 Aufrufe an Euch und, wenn es gut läuft, auch ein wenig unterhalten und zum Nachdenken anregen.
 
 Passend - als erster Post im Blog - möchte ich gleich einmal die Frage nach dem <i>Warum?</i> klären.
-
-## Willkommen beim Lunchelot Blog!
-
 
 
 ## Warum also, haben wir Lunchelot geschaffen?
