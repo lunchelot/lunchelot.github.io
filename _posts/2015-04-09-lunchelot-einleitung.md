@@ -10,8 +10,6 @@ tags:
 ---
 
 
-## Willkommen beim Lunchelot Blog!
-
 Der Lunchelot Blog soll (Hintergrund-) Information zum <a href="https://lunchelot.de/">Lunchelot Projekt</a> liefern: Neuigkeiten, Umfrageergebnisse,
 Aufrufe an Euch und, wenn es gut läuft, auch ein wenig unterhalten und zum Nachdenken anregen.
 
