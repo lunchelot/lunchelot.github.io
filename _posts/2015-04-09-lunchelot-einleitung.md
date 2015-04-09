@@ -18,7 +18,9 @@ Passend - als erster Artikel im Blog - möchte ich gleich einmal die Frage nach 
 ## Warum also, haben wir Lunchelot geschaffen?
 
 Es ist eigentlich ganz einfach:
-Wir sind es leid uns jeden Tag mit Fragen bezüglich des Mittagessens zu beschäftigen. Als Angestellter
+Wir sind es leid uns jeden Tag mit Fragen bezüglich des Mittagessens zu beschäftigen.
+
+Du wirst es kennen: Als Angestellter
 sind die Werktage ohnehin schon so voll gepackt - sich jeden Tag aufs Neue um sein Mittagessen zu kümmern ist schlichtweg nervig.
 Und als Informatiker sage ich: Auch nicht mehr zeitgemäß :-)
 Das betrifft hauptsächlich Mitarbeiter an Firmenstandorten ohne Kantine und ausserhalb der Stadt, wie ich es einer bin.
