@@ -6,14 +6,13 @@ excerpt: Willkommen beim Lunchelot Blog! Lunchelot Einleitung: <i>Warum?</i> Mit
 description: Lunchelot Einleitung: Warum? Mit dieser Frage beschäftigt sich der erste Post im Lunchelot Blog.
 tags:
     - lunchelot
-
 ---
 
 
 Der Lunchelot Blog soll (Hintergrund-) Information zum <a href="https://lunchelot.de/">Lunchelot Projekt</a> liefern: Neuigkeiten, Umfrageergebnisse,
 Aufrufe an Euch und, wenn es gut läuft, auch ein wenig unterhalten und zum Nachdenken anregen.
 
-Passend - als erster Post im Blog - möchte ich gleich einmal die Frage nach dem <i>Warum?</i> klären.
+Passend - als erster Artikel im Blog - möchte ich gleich einmal die Frage nach dem <i>Warum?</i> klären.
 
 
 ## Warum also, haben wir Lunchelot geschaffen?
