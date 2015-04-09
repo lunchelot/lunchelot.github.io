@@ -42,7 +42,7 @@ Lunchelot bietet Dir Abwechslung und legt Wert auf gesunde Alternativen zum übl
 
 
 <p class="message">
-  Ein Aspekt, der uns besonders am Herzen liegt ist der Aspekt der Nachhaltigkeit.
+  Ein Aspekt, der uns besonders am Herzen liegt ist Nachhaltigkeit.
 </p>
 
 ### Müll
