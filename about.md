@@ -4,27 +4,21 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  Unser Alltag bietet genug Herausforderungen. Mittagessen soll nicht mehr dazu gehören. TEst
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+## Über Lunchelot 2
 
-There are currently two themes built on Poole:
+Lunchelot ist ein einfaches Tool, um Mittagstische zu suchen, Mittagsrunden mit Arbeitskollegen zu organisieren, über das System zu bestellen (und zukünftig auch zu bezahlen) und dabei viel Zeit zu sparen. Damit mehr Zeit in der Mittagspause oder nach Feierabend bleibt, um spazieren oder joggen zu gehen oder für ein Beach-Volleyball Match, wie wir das am See manchmal machen.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+## Bürostuhlakrobaten haben Rückenbeschwerden, Maus-Arme und Computer-Augen. 
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+Luncheloter haben mehr Zeit dadurch, dass sie weniger Zeit mit der Organisation der Mittagspause verbringen: 
+Wir zeigen euch was es zu essen gibt, lassen euch nette Leute dazu einladen und verkürzen eure Wartezeit am Tisch im Restaurant oder bei der Bestellung. Ihr esst gemütlich und habt dann noch Zeit für die wichtigen Dinge des Lebens: In der Sonne flanieren, ein Eis beim Italiener am Eck holen, Zeit mit euren Kindern verbringen oder schwimmen gehen. Gegen eure Rückenbeschwerden.
 
-## Setup
 
-Some fun facts about the setup of this project include:
+Lunchelot ist die neue Bewegung für Mittagspausen-Genießer!
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+### Kontakt
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+[lunchelot@mailbox.org](mailto:lunchelot@mailbox.org)
