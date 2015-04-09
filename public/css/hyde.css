@@ -36,12 +36,12 @@ html {
 }
 @media (min-width: 48em) {
   html {
-    font-size: 16px;
+    font-size: 15px;
   }
 }
 @media (min-width: 58em) {
   html {
-    font-size: 20px;
+    font-size: 17px;
   }
 }
 
@@ -50,6 +50,9 @@ h1 {
   color: #618E00;
 }
 
+h2 {
+  font-size: 1.3rem;
+}
 
 /*
  * Sidebar
@@ -87,6 +90,10 @@ h1 {
   font-family: "Arvo", Helvetica, Verdana, sans-serif;
   font-size: 2.3rem;
   font-weight: 200;
+}
+
+.sidebar-about small {
+  font-size: 1rem;
 }
 
 /* Sidebar nav */
