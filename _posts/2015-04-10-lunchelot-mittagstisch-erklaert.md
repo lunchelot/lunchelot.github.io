@@ -20,7 +20,7 @@ Hier erfährst Du, wie Lunchelot Dir hilft das Mittagessen zu finden, worauf Du 
 
 ## Einfach und übersichtlich Mittagstische und Essens-Angebote in deiner Umgebung finden
 
-** Unter der Rubrik “Was gibt’s heute?” kannst Du: **
+**Unter der Rubrik “Was gibt’s heute?” kannst Du:**
 
 *   Die **Mittagstische und die reguläre Speisekarte** der Restaurants in deiner Umgebung schnell und einfach finden. 
 *   Mit den praktischen **Filtern oben links** kannst Du gezielt nach **veganen, vegetarischen,glutenfreien** oder **scharfen Essen** suchen. 
