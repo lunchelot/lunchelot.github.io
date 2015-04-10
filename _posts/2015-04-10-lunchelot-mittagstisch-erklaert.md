@@ -1,5 +1,12 @@
 ---
-published: false
+layout: post
+title: Lunchelot Mittagstische - Mittagessen in Deiner Umgebung auf einen Blick!
+category: Handbuch
+excerpt: Lunchelot Mittagstische erklärt
+description: Lunchelot Mittagstische - Wie Du mit Lunchelot einfach Dein Mittagessen findest.
+tags:
+  - handbuch
+published: true
 ---
 
 ## Wie gehts los? Registrierung
