@@ -13,12 +13,9 @@ Der Lunchelot Blog soll (Hintergrund-) Information zum <a href="https://lunchelo
 Aufrufe an Euch und, wenn es gut läuft, auch ein wenig unterhalten und zum Nachdenken anregen.
 
 Passend - als erster Artikel im Blog - möchte ich gleich einmal die Frage nach dem <i>Warum?</i> klären.
-
-
-
+<!--more-->
 ## Warum also, haben wir Lunchelot geschaffen?
 
-<!--more-->
 
 Es ist eigentlich ganz einfach:
 Wir sind es leid uns jeden Tag mit Fragen bezüglich des Mittagessens zu beschäftigen.
