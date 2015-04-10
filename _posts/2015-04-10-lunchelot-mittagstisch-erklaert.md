@@ -9,7 +9,7 @@ tags:
 published: true
 ---
 
-Hier erfährst Du, wie Lunchelot Dir hilft das Mittagessen zu finden, worauf Du Lust hast.
+Hier erfährst Du, wie Lunchelot Dir hilfen möchte genau das Mittagessen zu finden, auf das Du heute Lust hast.
 
 ## Wie gehts los? Registrierung
 
