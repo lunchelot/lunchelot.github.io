@@ -7,9 +7,12 @@ description: Lunchelot Mittagstische - Wie Du mit Lunchelot einfach Dein Mittage
 tags:
   - handbuch
 published: true
+excerpt_separator: <!--more-->
 ---
 
 Hier erfährst Du, wie Lunchelot Dir hilfen möchte genau das Mittagessen zu finden, auf das Du heute Lust hast.
+
+<!--more-->
 
 ## Wie gehts los? Registrierung
 
