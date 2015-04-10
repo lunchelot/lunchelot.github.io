@@ -11,10 +11,7 @@ title: Home
         {{ post.title }}
       </a>
     </h1>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-    {{ post.excerpt }}
-  </div>
+  <span class="post-date">{{ post.date | date_to_string }}</span>
   <div class="post-content-truncate">
   {% if post.content contains "<!-- more -->" %}
     {{ post.content | split:"<!-- more -->" | first % }}
@@ -23,6 +20,7 @@ title: Home
   {% endif %}
 </div>
   {% endfor %}
+</div>
 </div>
 
 
