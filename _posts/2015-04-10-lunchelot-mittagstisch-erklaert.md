@@ -10,7 +10,9 @@ excerpt_separator: <!--more-->
 ---
 
 Hier erfährst Du, wie Lunchelot Dir hilfen möchte genau das Mittagessen zu finden, auf das Du heute Lust hast.
+
 <!--more-->
+
 ## Wie gehts los? Registrierung
 
 *   Du meldest dich mit deinem Google Account oder mit Namen und E-Mail an. 
