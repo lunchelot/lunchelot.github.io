@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Lunchelot Einleitung
-category: allgemeines
+category: Allgemeines
 description: Warum Lunchelot? Mit dieser Frage beschäftigt sich der erste Post im Lunchelot Blog.
 tags:
   - lunchelot
