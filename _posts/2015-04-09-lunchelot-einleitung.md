@@ -14,9 +14,11 @@ Aufrufe an Euch und, wenn es gut läuft, auch ein wenig unterhalten und zum Nach
 
 Passend - als erster Artikel im Blog - möchte ich gleich einmal die Frage nach dem <i>Warum?</i> klären.
 
-excerpt_separator: <!--more-->
+
 
 ## Warum also, haben wir Lunchelot geschaffen?
+
+<!--more-->
 
 Es ist eigentlich ganz einfach:
 Wir sind es leid uns jeden Tag mit Fragen bezüglich des Mittagessens zu beschäftigen.
