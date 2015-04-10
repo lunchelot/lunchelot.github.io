@@ -1,13 +1,6 @@
 ---
-layout: post
-title: Lunchelot Einleitung
-category: Allgemeines
-excerpt: Willkommen beim Lunchelot Blog! Lunchelot Einleitung: <i>Warum?</i> Mit dieser Frage beschäftigt sich der erste Eintrag im Blog.
-description: Lunchelot Einleitung: Warum? Mit dieser Frage beschäftigt sich der erste Post im Lunchelot Blog.
-tags:
-    - lunchelot
+published: false
 ---
-
 
 Der Lunchelot Blog soll (Hintergrund-) Information zum <a href="https://lunchelot.de/">Lunchelot Projekt</a> liefern: Neuigkeiten, Umfrageergebnisse,
 Aufrufe an Euch und, wenn es gut läuft, auch ein wenig unterhalten und zum Nachdenken anregen.
@@ -25,7 +18,7 @@ sind die Werktage ohnehin schon so voll gepackt - sich jeden Tag aufs Neue um se
 Und als Informatiker sage ich: Auch nicht mehr zeitgemäß :-)
 Das betrifft hauptsächlich Mitarbeiter an Firmenstandorten ohne Kantine und ausserhalb der Stadt, wie ich es einer bin.
 
-Ich persönlich möchte mich nicht jeden Tag von Döner oder Pizza ernähren. Auch möchte ich nicht jeden Tag über eine Stunde
+Wir möchten uns nicht jeden Tag von Döner oder Pizza ernähren. Auch möchten wir nicht jeden Tag über eine Stunde
 Mittagspause machen. Oft soll es einfach schnell gehen. Entweder, weil es stressig ist
 im Büro, oder weil ich lieber früher Feierabend mache, um an den See zu liegen, Fahrrad zu fahren oder ein Eis zu essen.
 
@@ -52,7 +45,7 @@ Wenn Essen bestellt wird, fallen üblicherweise Unmengen an Müll an. Umweltsch�
 Wir möchten uns mit <strong>Partnern aus der Gastronomie</strong> Gedanken darüber machen, wie man dieses Problem in den Griff bekommen kann.
 </p>
 
-### Fleisch ist zu billig.
+### Fleisch ist zu billig
 
 An diser Tatsache gibt es in Deutschland nichts zu rütteln.
 Der Sparzwang ist in der Gesellschaft verankert. Uns von Aldis und Lidls beigebracht.
@@ -84,5 +77,4 @@ Hinterlasse uns Feedback auf unserer <a href="https://www.facebook.com/pages/Lun
 Wenn Du Dich <strong>nicht</strong> angesprochen fühlst, gilt übrigens das Gleiche.
 
 
-\- Arthur Hupka
-
+\- Arthur
