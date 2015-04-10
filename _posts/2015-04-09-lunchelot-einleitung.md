@@ -15,7 +15,6 @@ Passend - als erster Artikel im Blog - möchte ich gleich einmal die Frage nach 
 
 ## Warum also, haben wir Lunchelot geschaffen?
 
-
 Es ist eigentlich ganz einfach:
 Wir sind es leid uns jeden Tag mit Fragen bezüglich des Mittagessens zu beschäftigen.
 
