@@ -9,6 +9,8 @@ tags:
 published: true
 ---
 
+Hier erfährst Du, wie Lunchelot Dir hilft das Mittagessen zu finden, worauf Du Lust hast.
+
 ## Wie gehts los? Registrierung
 
 *   Du meldest dich mit deinem Google Account oder mit Namen und E-Mail an. 
