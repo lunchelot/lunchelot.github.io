@@ -6,7 +6,6 @@ description: Warum Lunchelot? Mit dieser Frage beschäftigt sich der erste Post 
 tags:
   - lunchelot
 published: true
-excerpt_separator: Weiter lesen
 ---
 
 Der Lunchelot Blog soll (Hintergrund-) Information zum <a href="https://lunchelot.de/">Lunchelot Projekt</a> liefern: Neuigkeiten, Umfrageergebnisse,
