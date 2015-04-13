@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Lunchelot Mittagstische - Mittagessen in Deiner Umgebung auf einen Blick!
+title: "Lunchelot Mittagstische - Mittagessen in Deiner Umgebung auf einen Blick!"
 category: handbuch
-description: Lunchelot Mittagstische - Wie Du mit Lunchelot einfach Dein Mittagessen findest.
-tags:
+description: "Lunchelot Mittagstische - Wie Du mit Lunchelot einfach Dein Mittagessen findest."
+tags: 
   - handbuch
 published: true
-excerpt_separator: <!--more-->
+excerpt_separator: "<!--more-->"
 ---
 
 Hier erfährst Du, wie Lunchelot Dir hilfen möchte genau das Mittagessen zu finden, auf das Du heute Lust hast.
@@ -28,6 +28,8 @@ Hier erfährst Du, wie Lunchelot Dir hilfen möchte genau das Mittagessen zu fin
 *   Mit den praktischen **Filtern oben links** kannst Du gezielt nach **veganen, vegetarischen,glutenfreien** oder **scharfen Essen** suchen. 
 *   Mit der **Suchfunktion** kannst Du auch frei im Text der Essens-Angebote nach dem suchen, auf was du gerade Lust hast z.B. “Fisch” oder “Zucchini” oder “Lasagne”.
 *   Wenn Du ein Essen gefunden hast, kannst Du beim **Klick auf das Restaurant** die **Adresse und Öffnungszeiten** sehen, sowie weitere Infos die der Gastronom für dich hinterlegt hat.
+![](/https://lh4.googleusercontent.com/EXobrd5-992kANdnjzHg_SweBsmRn96sOCmWbAOcx4--07YMGP5iD2u4dLONfnwptryxeHOmOnGSMMQ=w1816-h866)
+
 
 ##Ich habe ein passendes Essen für mich gefunden-Was kann Lunchelot noch für mich tun?
 *   Je Essen siehst Du auch in welchem Restaurant es angeboten wird. Hast Du dich für eines entschieden, kannst Du auf das Restaurant klicken. 
