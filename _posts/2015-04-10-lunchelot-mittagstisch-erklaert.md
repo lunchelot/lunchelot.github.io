@@ -28,7 +28,7 @@ Hier erfährst Du, wie Lunchelot Dir hilfen möchte genau das Mittagessen zu fin
 *   Mit den praktischen **Filtern oben links** kannst Du gezielt nach **veganen, vegetarischen,glutenfreien** oder **scharfen Essen** suchen. 
 *   Mit der **Suchfunktion** kannst Du auch frei im Text der Essens-Angebote nach dem suchen, auf was du gerade Lust hast z.B. “Fisch” oder “Zucchini” oder “Lasagne”.
 *   Wenn Du ein Essen gefunden hast, kannst Du beim **Klick auf das Restaurant** die **Adresse und Öffnungszeiten** sehen, sowie weitere Infos die der Gastronom für dich hinterlegt hat.
-![](/https://lh4.googleusercontent.com/EXobrd5-992kANdnjzHg_SweBsmRn96sOCmWbAOcx4--07YMGP5iD2u4dLONfnwptryxeHOmOnGSMMQ=w1816-h866)
+![Was gibts heute?](https://lh4.googleusercontent.com/EXobrd5-992kANdnjzHg_SweBsmRn96sOCmWbAOcx4--07YMGP5iD2u4dLONfnwptryxeHOmOnGSMMQ=w1816-h866)
 
 
 ##Ich habe ein passendes Essen für mich gefunden-Was kann Lunchelot noch für mich tun?
