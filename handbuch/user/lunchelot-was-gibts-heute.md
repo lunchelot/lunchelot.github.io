@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Lunchelot Benutzer Handbuch - Was gibts heute?"
+title: "Lunchelot Benutzer Handbuch - Mittagstisch finden"
 type: handbuch-user
 ---
 
@@ -25,9 +25,9 @@ Hier erfährst Du, wie Lunchelot Dir helfen kann genau das Mittagessen zu finden
 *   Wenn Du ein Essen gefunden hast, kannst Du beim **Klick auf das Restaurant** die **Adresse und Öffnungszeiten** sehen, sowie weitere Infos die der Gastronom für dich hinterlegt hat.
 *
 
-![Lunchelot Was gibts heute](https://lh4.googleusercontent.com/EXobrd5-992kANdnjzHg_SweBsmRn96sOCmWbAOcx4--07YMGP5iD2u4dLONfnwptryxeHOmOnGSMMQ=w1816-h866 "Lunchelot - Was gibts heute?")
+![Lunchelot Was gibts heute](https://lh4.googleusercontent.com/EXobrd5-992kANdnjzHg_SweBsmRn96sOCmWbAOcx4--07YMGP5iD2u4dLONfnwptryxeHOmOnGSMMQ=w1816-h866)
 
-##Ich habe ein passendes Essen für mich gefunden-Was kann Lunchelot noch für mich tun?
+## Ich habe ein passendes Essen für mich gefunden-Was kann Lunchelot noch für mich tun?
 *   Je Essen siehst Du auch in welchem Restaurant es angeboten wird. Hast Du dich für eines entschieden, kannst Du auf das Restaurant klicken.
 *   Auf der Restaurant Seite gibt es einen Button _Mittagsrunde starten_. Hiermit startest Du eine Lunchelot Mittagsrunde und kannst nette Leute einladen mit dir bei diesem Restaurant zu essen oder zu bestellen.
 
