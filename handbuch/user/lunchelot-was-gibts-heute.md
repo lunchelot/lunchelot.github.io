@@ -25,7 +25,7 @@ Hier erfährst Du, wie Lunchelot Dir helfen kann genau das Mittagessen zu finden
 *   Wenn Du ein Essen gefunden hast, kannst Du beim **Klick auf das Restaurant** die **Adresse und Öffnungszeiten** sehen, sowie weitere Infos die der Gastronom für dich hinterlegt hat.
 *
 
-![Lunchelot Was gibts heute](https://lh4.googleusercontent.com/EXobrd5-992kANdnjzHg_SweBsmRn96sOCmWbAOcx4--07YMGP5iD2u4dLONfnwptryxeHOmOnGSMMQ=w1816-h866)
+![Lunchelot Was gibts heute](https://lh4.googleusercontent.com/nuBVGhmgm8locJOih5et6qlHXB9P7p0Ex7IRTFthTCKamHf2FJ9DJLQ-QyJWpX-AhhcDvQ=w1466-h847)
 
 ## Ich habe ein passendes Essen für mich gefunden-Was kann Lunchelot noch für mich tun?
 *   Je Essen siehst Du auch in welchem Restaurant es angeboten wird. Hast Du dich für eines entschieden, kannst Du auf das Restaurant klicken.
