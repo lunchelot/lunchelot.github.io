@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Über Lunchelot
+navigation: true
 ---
 
 <p class="message">
