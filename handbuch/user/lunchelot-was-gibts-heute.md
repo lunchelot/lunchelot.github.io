@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: "Lunchelot Benutzer Handbuch - Was gibts heute"
 type: "handbuch-user"
 ---
