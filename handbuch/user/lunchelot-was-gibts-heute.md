@@ -1,6 +1,7 @@
 ---
 layout: page
-title: "Lunchelot Benutzer Handbuch - Mittagstisch finden"
+title: "Lunchelot Benutzerhandbuch - Mittagstisch finden"
+navigationtitle: "Registrierung und Mittagstisch finden"
 type: handbuch-user
 ---
 
@@ -23,7 +24,7 @@ Hier erfährst Du, wie Lunchelot Dir helfen kann genau das Mittagessen zu finden
 *   Mit den praktischen **Filtern oben links** kannst Du gezielt nach **veganen, vegetarischen,glutenfreien** oder **scharfen Essen** suchen.
 *   Mit der **Suchfunktion** kannst Du auch frei im Text der Essens-Angebote nach dem suchen, auf was du gerade Lust hast z.B. “Fisch” oder “Zucchini” oder “Lasagne”.
 *   Wenn Du ein Essen gefunden hast, kannst Du beim **Klick auf das Restaurant** die **Adresse und Öffnungszeiten** sehen, sowie weitere Infos die der Gastronom für dich hinterlegt hat.
-*
+
 
 ![Lunchelot Was gibts heute](https://lh4.googleusercontent.com/nuBVGhmgm8locJOih5et6qlHXB9P7p0Ex7IRTFthTCKamHf2FJ9DJLQ-QyJWpX-AhhcDvQ=w1466-h847)
 
