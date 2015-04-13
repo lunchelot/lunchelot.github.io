@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Lunchelot Benutzer Handbuch - Was gibts heute"
-type: "handbuch-user"
+title: "Lunchelot Benutzer Handbuch - Was gibts heute?"
+type: handbuch-user
 ---
 
 Hier erfährst Du, wie Lunchelot Dir helfen kann genau das Mittagessen zu finden, auf das Du heute Lust hast.

@@ -4,3 +4,13 @@ title: "Lunchelot Handbuch"
 navigation: true
 ---
 <h1>Lunchelot Handbuch</h1>
+
+<h2>Benutzer Handbuch</h2>
+{% assign pages_list = site.pages %}
+    {% for node in pages_list %}
+        {% if node.title != null %}
+            {% if node.type != null %}
+                <a class="" href="{{ node.url }}">{{ node.title }}</a>
+            {% endif %}
+        {% endif %}
+    {% endfor %}
