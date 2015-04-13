@@ -51,6 +51,11 @@ h1 {
   font-weight: normal;
 }
 
+.page-title, .post-title {
+  margin-top: 0;
+  font-size: 1.5rem;
+}
+
 .post-content-truncate h1, .post-content-truncate h2, .post-content-truncate h3 {
   font-size: smaller;
 }
