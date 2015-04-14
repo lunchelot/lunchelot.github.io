@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Lunchelot Einleitung
+title: Das ist Lunchelot
 category: lunchelot
-description: Warum Lunchelot? Mit dieser Frage beschäftigt sich der erste Post im Lunchelot Blog.
+description: Mittagstische und Mittagessen finden, Gruppenbestellungen und Zeit sparen. Das ist Lunchelot.
 tags:
   - lunchelot
 published: true
