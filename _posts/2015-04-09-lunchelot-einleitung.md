@@ -45,6 +45,9 @@ Lunchelot bietet Dir Abwechslung und legt Wert auf gesunde Alternativen zum übl
   Ein Aspekt, der uns besonders am Herzen liegt ist Nachhaltigkeit.
 </p>
 
+
+<img src="{{site.baseurl}}assets/lunchelot-soup-pc-900.jpg" alt="Lunchelot" />
+
 ### Müll
 
 Wenn Essen bestellt wird, fallen üblicherweise Unmengen an Müll an. Umweltschädlicher Müll wie Styropor- und Aluschalen.
@@ -85,3 +88,6 @@ Wenn Du Dich <strong>nicht</strong> angesprochen fühlst, gilt übrigens das Gle
 
 
 \- Arthur
+
+
+{% include image_ref.html %}
