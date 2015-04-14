@@ -19,7 +19,7 @@ Du kannst super easy <b>Arbeitskollegen oder Freunde</b> zu einer Mittagsrunde e
 *   Trage ein **um wieviel Uhr** du mit deinen Kollegen essen möchtest
 *   Jetzt ist die Mittagsrunde angelegt und du kannst nette Leute dazu einladen.
 
-![Screenshot Mittagsrunde organisieren]({{site.baseurl}}/handbuch/user/img/mittagsrunde-anlegen.png)
+![Screenshot Mittagsrunde organisieren]({{site.baseurl}}handbuch/user/img/mittagsrunde-anlegen.png)
 
 ###So lädst du Freunde und Kollegen zu einer Mittagsrunde ein:###
 
