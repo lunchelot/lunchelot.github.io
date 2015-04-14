@@ -12,6 +12,8 @@ Der Lunchelot Blog soll (Hintergrund-) Information zum <a href="https://lunchelo
 Aufrufe an Euch und, wenn es gut läuft, auch ein wenig unterhalten und zum Nachdenken anregen.
 Passend - als erster Artikel im Blog - möchte ich gleich einmal die Frage nach dem <i>Warum?</i> klären.
 
+<img src="{{site.baseurl}}assets/table-salad-900.jpg" alt="Lunchelot" />
+
 ## Warum also, haben wir Lunchelot geschaffen? 
 <!-- more -->
 
