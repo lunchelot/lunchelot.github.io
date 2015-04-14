@@ -52,7 +52,7 @@ Wir möchten uns mit <strong>Partnern aus der Gastronomie</strong> Gedanken dar�
 
 ### Fleisch ist zu billig
 
-An diser Tatsache gibt es in Deutschland nichts zu rütteln.
+An dieser Tatsache gibt es in Deutschland nichts zu rütteln.
 Der Sparzwang ist in der Gesellschaft verankert. Uns von Aldis und Lidls beigebracht.
 Wir glauben dennoch, dass es viele Menschen gibt, die Wert darauf legen welche Qualität auf den Tisch kommt.
 Wir glauben daran, weil wir das selbst tun. Oft fehlt allerdings das Angebot. Wir haben keine Wahl.
