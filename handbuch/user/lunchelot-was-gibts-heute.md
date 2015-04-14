@@ -5,24 +5,26 @@ navigationtitle: "Registrierung und Mittagstisch finden"
 type: handbuch-user
 ---
 
+<p class="message">
 Hier erfährst Du, wie Lunchelot Dir helfen kann genau das Mittagessen zu finden, auf das Du heute Lust hast.
-
+</p>
 <!-- more -->
 
 ## Wie gehts los? Registrierung
 
-*   Du meldest dich mit deinem Google Account oder mit Namen und E-Mail an.
-*   Du schließt dich einer Organisation bzw. Firma an.
-*   Lunchelot weiß jetzt in welcher Umgebung Du zu Mittagstischen informiert werden willst und von welcher Firma du Kollegen einladen möchtest. Du kannst natürlich auch andere Freunde und Leute zu Mittagsrunden einladen.
+*   Du meldest Dich bequem mit Deinem **Google Account** oder mit **Namen und E-Mail** an.
+    * Mit der Google Authentifizierung bist Du mit einem Klick angemeldet. Wir verwenden nur Namen und E-Mail Deines Google Accounts.
+*   Du schließt Dich einer Organisation bzw. Firma an.
+*   Lunchelot weiß jetzt _in welcher Umgebung Du zu Mittagstischen informiert werden willst_ und von welcher Firma du Kollegen einladen möchtest. Du kannst natürlich auch andere Freunde und Personen zu Mittagsrunden einladen.
 
 
 ## Einfach und übersichtlich Mittagstische und Essens-Angebote in deiner Umgebung finden
 
 **Unter der Rubrik “Was gibt’s heute?” kannst Du:**
 
-*   Die **Mittagstische und die reguläre Speisekarte** der Restaurants in deiner Umgebung schnell und einfach finden.
-*   Mit den praktischen **Filtern oben links** kannst Du gezielt nach **veganen, vegetarischen,glutenfreien** oder **scharfen Essen** suchen.
-*   Mit der **Suchfunktion** kannst Du auch frei im Text der Essens-Angebote nach dem suchen, auf was du gerade Lust hast z.B. “Fisch” oder “Zucchini” oder “Lasagne”.
+*   Die **Mittagstische und die reguläre Speisekart** der Restaurants in deiner Umgebung schnell und einfach finden.
+*   Mit den praktischen **Filtern oben links** kannst Du gezielt nach **veganen, vegetarischen, glutenfreien** oder **scharfen Essen** suchen.
+*   Mit der **Suchfunktion** kannst Du auch frei im Text der Essens-Angebote nach dem suchen, worauf Du gerade Lust hast z.B. “Fisch” oder “Zucchini” oder “Lasagne”.
 *   Wenn Du ein Essen gefunden hast, kannst Du beim **Klick auf das Restaurant** die **Adresse und Öffnungszeiten** sehen, sowie weitere Infos die der Gastronom für dich hinterlegt hat.
 
 
