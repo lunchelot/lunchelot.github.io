@@ -6,11 +6,13 @@ navigation: true
 <h1>Lunchelot Handbuch</h1>
 
 <h2>Benutzerhandbuch - Mittagstische finden und Gruppenbestellungen organisieren.</h2>
+<ol class="handbook-index">
 {% assign pages_list = site.pages %}
 {% for node in pages_list %}
 {% if node.title != null %}
 {% if node.type != null %}
-<a class="" href="{{ node.url }}">{{ node.navigationtitle }}</a> <br />
+<li><a href="{{ node.url }}">{{ node.navigationtitle }}</a> <br /></li>
 {% endif %}
 {% endif %}
 {% endfor %}
+</ol>
