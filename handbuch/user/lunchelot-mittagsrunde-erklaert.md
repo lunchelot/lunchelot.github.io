@@ -15,11 +15,11 @@ Du kannst super easy <b>Arbeitskollegen oder Freunde</b> zu einer Mittagsrunde e
 *   Wähle deine Organisation bzw Firma aus
 *   Klicke auf **"Neue Mittagsrunde starten"**
 *   Wähle ein Restaurant aus. Falls dein gewünschtes Restaurant nicht dabei ist, helfe lunchelot in der Startphase und trage es schnell selbst ein für dich und die anderen User
-*   Wähle aus ob du **vor Ort essen und vorbestellen** möchtest, oder das **Essen geliefert** bekommen willst oder es **selbst abholst**
+*   Wähle aus ob du **vor Ort essen und vorbestellen** möchtest, oder das **Essen geliefert** bekommen willst oder es **selbst abholst**. Je nach dem, was das Restaurant hier anbietet, stehen unterschiedliche Optionen zur Verfügung.
 *   Trage ein **um wieviel Uhr** du mit deinen Kollegen essen möchtest
 *   Jetzt ist die Mittagsrunde angelegt und du kannst nette Leute dazu einladen.
 
-![Screenshot Mittagsrunde organisieren](http://www.addictedtoibiza.com/wp-content/uploads/2012/12/example.png)
+![Screenshot Mittagsrunde organisieren]({{site.url}}/handbuch/user/img/mittagsrunde-anlegen.png)
 
 ###So lädst du Freunde und Kollegen zu einer Mittagsrunde ein:###
 
@@ -69,7 +69,7 @@ Du kannst eintragen wer wieviel bezahlt hat. Damit verlierst Du nicht den Überb
 *   **Option "Vorbestellen und Hingehen"** beim Anlegen der Mittagsrunde auswählen. Falls dein gewünschtes Restaurant diese Option noch nicht anbietet, helfe Lunchelot in der Startphase und spreche den Gastronomen darauf an oder schreibe uns und wir übernehmen das.
 *   Gleiches Vorgehen wie bei den vorherigen Varianten bis alle ihre Bestellungen eingetragen haben.
 *   Mit dem **Klick auf "Bestellen"** wird dem Restaurant oder Lieferdienst **verbindlich ein Auftrag erteilt**.
-*   Jetzt **wartet ihr bis das Restaurant eure Anfrage bestätigt hat**. 
+*   Jetzt **wartet ihr bis das Restaurant eure Anfrage bestätigt hat**.
 *   Ihr bekommt eine **Bestätigungsmail** vom Restaurant und könnt euch nun sicher sein, dass **zur vereinbarten Uhrzeit euer Essen auf dem Tisch steht** und Ihr wertvolle Zeit in der Mittagspause sparen könnt.
 
 ![Screenshot Mittagsrunde organisieren](http://www.addictedtoibiza.com/wp-content/uploads/2012/12/example.png)

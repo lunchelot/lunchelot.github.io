@@ -190,9 +190,10 @@ a.sidebar-nav-item:focus {
     margin-right: 22rem;
   }
 }
-
-
-
+.hint {
+background: rgb(252, 252, 212);
+padding: 1rem;
+}
 /*
  * Themes
  *
