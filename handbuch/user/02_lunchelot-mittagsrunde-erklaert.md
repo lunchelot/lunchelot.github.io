@@ -82,3 +82,5 @@ Du kannst eintragen wer wieviel bezahlt hat. Damit verlierst Du nicht den Überb
 *   Ihr bekommt eine **Bestätigungsmail** vom Restaurant und könnt euch nun sicher sein, dass **zur vereinbarten Uhrzeit euer Essen auf dem Tisch steht** und Ihr wertvolle Zeit in der Mittagspause sparen könnt.
 
 ![Lunchelot Screenshot Mittagessen vorbestellen]({{site.baseurl}}handbuch/user/img/screenshot-essen-vorbestellen.png)
+
+{% include twitter_plug.html %}
