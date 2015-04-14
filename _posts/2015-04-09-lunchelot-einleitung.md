@@ -62,7 +62,7 @@ Wir glauben dennoch, dass es viele Menschen gibt, die Wert darauf legen welche Q
 Wir glauben daran, weil wir das selbst tun. Oft fehlt allerdings das Angebot. Wir haben keine Wahl.
 
 <p class="message">
-Wir möchten **nachhaltig produziertes** Essen fördern.
+Wir möchten <b>nachhaltig produziertes</b> Essen fördern.
 </p>
 
 Essen, welches wir ohne schlechtes Gewissen essen können. Ohne uns Gedanken darüber zu machen, unter welchen

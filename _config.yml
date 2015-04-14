@@ -8,7 +8,7 @@ relative_permalinks: true
 
 # Setup
 timezone:         Europe/Berlin
-title:            Lunchelot
+title:            Lunchelot Blog
 tagline:          'Lunchelot Blog'
 description:      'Wenn''s um Dein Mittagessen geht.<br /> Social: <br /> <a href="https://twitter.com/LunchelotDE" target="_blank">@LunchelotDE</a> <a href="https://www.facebook.com/pages/Lunchelot/817285571685255" target="_blank">Facebook</a>.'
 url:              http://blog.lunchelot.de
