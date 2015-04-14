@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Lunchelot Benutzerhandbuch - Mittagsrunde erklärt und praktische Tipps"
-navigationtitle: "Mittagsrunde erklärt und praktische Tipps"
+title: "Lunchelot Benutzerhandbuch - Mittagsrunden organisieren und praktische Tipps"
+navigationtitle: "Mittagsrunden organisieren und praktische Tipps"
 type: handbuch-user
 ---
 

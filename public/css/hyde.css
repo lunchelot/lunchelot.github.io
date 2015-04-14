@@ -194,6 +194,11 @@ a.sidebar-nav-item:focus {
 background: rgb(252, 252, 212);
 padding: 1rem;
 }
+
+ol.index {
+  font-size: 1.4em;
+  line-height: 1.8em;
+}
 /*
  * Themes
  *
