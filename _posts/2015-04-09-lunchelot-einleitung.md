@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Das ist Lunchelot
+title: Das ist Lunchelot! Warum wir Lunchelot geschaffen haben.
 category: lunchelot
 description: Mittagstische und Mittagessen finden, Gruppenbestellungen und Zeit sparen. Das ist Lunchelot.
 tags:
