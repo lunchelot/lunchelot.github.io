@@ -46,7 +46,6 @@ Lunchelot bietet Dir Abwechslung und legt Wert auf gesunde Alternativen zum übl
 </p>
 
 
-<img src="{{site.baseurl}}assets/lunchelot-soup-pc-900.jpg" alt="Lunchelot" />
 
 ### Müll
 
@@ -88,6 +87,9 @@ Wenn Du Dich <strong>nicht</strong> angesprochen fühlst, gilt übrigens das Gle
 
 
 \- Arthur
+
+
+<img src="{{site.baseurl}}assets/lunchelot-soup-pc-900.jpg" alt="Lunchelot" />
 
 
 {% include image_ref.html %}
