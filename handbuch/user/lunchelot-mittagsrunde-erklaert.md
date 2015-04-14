@@ -35,6 +35,8 @@ Hier erfährst Du, wie Du selbst Mittagsrunden mit Gruppenbestellungen anlegen k
 *   Du **siehst** dann in deiner Mittagsrunde **wen Du eingeladen hast, wer teilnimmt** und auch **wer abgelehnt hat**.
 *   Zusätzlich könnt ihr euch **Nachrichten per Chat** hinterlassen und so zum Beispiel mitteilen, warum jemand nicht an der Mittagsrunde teilnehmen kann.
 
+![Lunchelot Screenshot Kollegen einladen]({{site.baseurl}}handbuch/user/img/kollegen-einladen.png)
+
 <p class="hint">
 Tipp: Hast Du den Teilnehmern etwas mitzuteilen?<br />
 Trage Deine Nachricht in das <b>Nachricht an Teilnehmer</b> Feld oben rechts ein. Diese Nachricht wird zur Einladungs E-Mail hinzugefügt, wenn Du Leute zu Deiner Mittagsrunde einlädst.
@@ -43,13 +45,13 @@ Wichtig: Änderst Du Die Nachricht später oder fügst eine ein, bekommen alle <
 <img src="{{site.baseurl}}handbuch/user/img/nachricht-teilnehmer.png" alt="Lunchelot Screenshot Gruppenbestellung Nachricht an Teilnehmer" />
 </p>
 
-![Lunchelot Screenshot Kollegen einladen]({{site.baseurl}}handbuch/user/img/kollegen-einladen.png)
+
+##Gruppenbestellung organisieren
+
 
 <p class="message">
 Starte eine Lunchelot Mittagsrunde und lade Freunde und Kollegen ein mit Dir essen zu gehen oder zu bestellen - ohne lange E-Mails zu schreiben, zu telefonieren oder durch die Büros zu laufen! Du kannst sofort sehen wer mitkommt oder mitbestellt.
 </p>
-
-##Gruppenbestellung organisieren
 
 Bestellt den **Mittagstisch oder euer Mittagessen im Restaurant vor**, **bestellt zusammen beim Lieferdienst** oder **holt Eure Bestellung gebündelt ab**. Jeder Teilnehmer einer Bestellung trägt bequem ein, was er essen möchte. Als Freitext oder direkt aus dem Menü, sofern dieses bei Lunchelot hinterlegt wurde.
 
@@ -69,7 +71,7 @@ Bestellt den **Mittagstisch oder euer Mittagessen im Restaurant vor**, **bestell
 *   **Lunchelot hilft euch beim Abrechnen**: Wenn das Essen abgeholt wird, muss es normalerweise bezahlt werden :-) In Lunchelot ist der Organisierer (In diesem Fall Du) der Mittagsrunde, derjenige der das Geld einsammelt.
 Du kannst eintragen wer wieviel bezahlt hat. Damit verlierst Du nicht den Überblick. Du kannst auch direkt sehen, wenn jemand nicht passend zahlen konnte.
 
-![Lunchelot Screenshot Kollegen einladen]({{site.baseurl}}handbuch/user/img/essen-waehlen.png)
+![Lunchelot Screenshot Essen eintragen]({{site.baseurl}}handbuch/user/img/mittagsrunde-essen-waehlen.png)
 
 ###Bei Restaurant vorbestellen und vor Ort essen:
 
