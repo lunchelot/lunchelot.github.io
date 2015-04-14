@@ -7,7 +7,7 @@ type: handbuch-user
 
 #Mittagsrunde organisieren
 <p class="message">
-Du kannst super easy **Arbeitskollegen oder Freunde** zu einer Mittagsrunde einladen. Entweder ihr verabredet euch, um gemeinsam in ein Restaurant zu gehen, oder ihr bestellt auch gleich zusammen.
+Du kannst super easy <b>Arbeitskollegen oder Freunde</b> zu einer Mittagsrunde einladen. Entweder ihr verabredet euch, um gemeinsam in ein Restaurant zu gehen, oder ihr bestellt auch gleich zusammen.
 </p>
 ###So eröffnest du eine Mittagsrunde:
 
@@ -30,9 +30,9 @@ Du kannst super easy **Arbeitskollegen oder Freunde** zu einer Mittagsrunde einl
 
 <p class="hint">
 Tipp: Hast Du den Teilnehmern etwas mitzuteilen?<br />
-Trage Deine Nachricht in das **Nachricht an Teilnehmer** Feld oben rechts ein. Diese Nachricht wird zur Einladungs E-Mail hinzugefügt, wenn Du Leute zu Deiner Mittagsrunde einlädst.
+Trage Deine Nachricht in das <b>Nachricht an Teilnehmer</b> Feld oben rechts ein. Diese Nachricht wird zur Einladungs E-Mail hinzugefügt, wenn Du Leute zu Deiner Mittagsrunde einlädst.
 Das ist praktisch, wenn Du zusätzliche Infos für die Teilnehmer hast. z.B. Um einen Treffpunkt zum Essen festzulegen oder mitzuteilen, dass ihr draussen im Park essen werdet.<br />
-Wichtig: Änderst Du Die Nachricht später oder fügst eine ein, bekommen alle **Teilnehmer** diese Nachricht auch per E-Mail zugesandt.
+Wichtig: Änderst Du Die Nachricht später oder fügst eine ein, bekommen alle <b>Teilnehmer</b> diese Nachricht auch per E-Mail zugesandt.
 </p>
 
 ![Screenshot Mittagsrunde organisieren](http://www.addictedtoibiza.com/wp-content/uploads/2012/12/example.png)
@@ -66,10 +66,10 @@ Du kannst eintragen wer wieviel bezahlt hat. Damit verlierst Du nicht den Überb
 
 ###Bei Restaurant vorbestellen und vor Ort essen:
 
-*   **Option "Vorbestellen und Hingehen" ** beim Anlegen der Mittagsrunde auswählen. Falls dein gewünschtes Restaurant diese Option noch nicht anbietet, helfe Lunchelot in der Startphase und spreche den Gastronomen darauf an oder schreibe uns und wir übernehmen das.
+*   **Option "Vorbestellen und Hingehen"** beim Anlegen der Mittagsrunde auswählen. Falls dein gewünschtes Restaurant diese Option noch nicht anbietet, helfe Lunchelot in der Startphase und spreche den Gastronomen darauf an oder schreibe uns und wir übernehmen das.
 *   Gleiches Vorgehen wie bei den vorherigen Varianten bis alle ihre Bestellungen eingetragen haben.
 *   Mit dem **Klick auf "Bestellen"** wird dem Restaurant oder Lieferdienst **verbindlich ein Auftrag erteilt**.
-*   Jetzt **wartet ihr bis das Restaurant zugestimmt hat**.
+*   Jetzt **wartet ihr bis das Restaurant eure Anfrage bestätigt hat**. 
 *   Ihr bekommt eine **Bestätigungsmail** vom Restaurant und könnt euch nun sicher sein, dass **zur vereinbarten Uhrzeit euer Essen auf dem Tisch steht** und Ihr wertvolle Zeit in der Mittagspause sparen könnt.
 
 ![Screenshot Mittagsrunde organisieren](http://www.addictedtoibiza.com/wp-content/uploads/2012/12/example.png)
