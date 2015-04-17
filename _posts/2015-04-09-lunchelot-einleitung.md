@@ -91,5 +91,7 @@ Wenn Du Dich <strong>nicht</strong> angesprochen fühlst, gilt übrigens das Gle
 
 <img src="{{site.baseurl}}assets/lunchelot-soup-pc-900.jpg" alt="Lunchelot" />
 
+{% include twitter_plug.html %}
 
 {% include image_ref.html %}
+

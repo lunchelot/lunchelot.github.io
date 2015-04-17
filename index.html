@@ -18,6 +18,10 @@ title: Home
   {% else %}
     {{ post.content | strip_html | truncatewords:100 }}
   {% endif %}
+    <p style="text-align: right; font-size: 1.2rem">
+    <a href="{{ post.url }}">Hier weiter lesen ...</a>
+    </p>
+    <hr />
 </div>
   {% endfor %}
 </div>
@@ -29,7 +33,7 @@ title: Home
   {% if paginator.next_page %}
     <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
   {% else %}
-    <span class="pagination-item older">Older</span>
+    <span class="pagination-item older">&Auml;ltere</span>
   {% endif %}
   {% if paginator.previous_page %}
     {% if paginator.page == 2 %}
@@ -38,6 +42,6 @@ title: Home
       <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
     {% endif %}
   {% else %}
-    <span class="pagination-item newer">Newer</span>
+    <span class="pagination-item newer">Neuere</span>
   {% endif %}
 </div>
