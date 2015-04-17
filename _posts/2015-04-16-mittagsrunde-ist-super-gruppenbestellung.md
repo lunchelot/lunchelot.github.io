@@ -6,6 +6,7 @@ description: Mittagstische und Mittagessen finden, Gruppenbestellungen und Zeit 
 tags:
   - lunchelot
 published: true
+permalink: warum-mittagsrunden-mit-gruppenbestellung-super-sind
 ---
 
 Jeder der in einer Firma ohne Kantine arbeitet kennt das: jeden Tag **kreisen einige E-Mails, Telefonate oder Treffen in der Kaffeepause darum**, was man an dem Tag mit wem und wann essen geht.
