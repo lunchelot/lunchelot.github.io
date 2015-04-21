@@ -35,7 +35,7 @@ Wir versuchen hiermit den sozialen Aspekt von Lunchelot etwas in den Fokus zu r�
 Bisher lag der Fokus stark auf dem Bestellprozess und sonstigen (langweiligen) Funktionalitäten, welche jede Webanwendung
 benötigt: Passwort ändern und neu anfordern, Profilverwaltung, E-Mail Versand uvm.
 
-### Raus aus der geschlossenen alpha
+#### Raus aus der geschlossenen alpha
 
 Mit Fertigstellung dieser Features wird Lunchelot aus der _geschlossenen alpha_ Phase in eine _öffentliche Beta_ starten.
 Diese Phase wird natürlich besonders spannend, da wir ab diesem Zeitpunkt mit öffentlichen Werbemaßnahmen beginnen können.
