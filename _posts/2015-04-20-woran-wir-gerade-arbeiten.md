@@ -48,8 +48,9 @@ Es wird sich zeigen, ob wir mit Lunchelot auf dem richtigen Weg liegen, oder uns
 
 Neben den Entwicklungsaktivitäten führen wir noch Gespräche und konkrete Planungen mit
 unserer Partnergastronomie Traube am See. Hierzu wird es in den nächsten Tagen noch einen separaten Blogeintrag geben.
+Es lohnt sich also auf dem laufenden zu bleiben :-)
 
-- Arthur
+-Arthur
 
 
 
