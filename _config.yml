@@ -15,7 +15,7 @@ url:              http://blog.lunchelot.de
 baseurl:          /
 
 author:
-  name:           'Lunchelot2'
+  name:           'Lunchelot'
   url:            https://lunchelot.de
 
 paginate:         5
