@@ -26,4 +26,4 @@ Vorbestellungen in der Mittagszeit sind bis 13:00 Uhr möglich.
 
 #### Bald können noch mehr Gäste davon profitieren
 
-Dies wird zukünftig einem weiteren Kreis an Firmen und anderen Gästen zu Gute kommen, wenn Lunchelot aus der internen Testphase an den Bosch Standorten in Immenstaad auch für weitere Firmen geöffnet wird!
+Dies wird zukünftig einem weiteren Kreis an Firmen und anderen Gästen zu Gute kommen, wenn Lunchelot aus der internen Testphase an den Bosch Standorten in Immenstaad am Bodensee auch für weitere Firmen geöffnet wird!
