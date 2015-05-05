@@ -7,6 +7,7 @@ tags:
   - lunchelot
 published: true
 ---
+
 Für unsere Nutzer in Immenstaad wird das __Vorbestellen nun noch bequemer__. Die Traube am See hat ein weiteres Tablet für den Servicebereich bekommen und wird ab sofort __Vorbestellungen für den schnellen Mittagstisch bis 11:30 Uhr annehmen__, statt wie bisher bis 11:00Uhr.
 
 ## Ab Mitte nächster Woche: Einfach 30 Minuten vor Ankunft bestellen!
