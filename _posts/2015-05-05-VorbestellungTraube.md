@@ -9,7 +9,7 @@ published: true
 ---
 Für unsere Nutzer in Immenstaad wird das __Vorbestellen nun noch bequemer__. Die Traube am See hat ein weiteres Tablet für den Servicebereich bekommen und wird ab sofort __Vorbestellungen für den schnellen Mittagstisch bis 11:30 Uhr annehmen__, statt wie bisher bis 11:00Uhr.
 
-## Ab mitte nächster Woche: Einfach 30 Minuten vor Ankunft bestellen!
+## Ab Mitte nächster Woche: Einfach 30 Minuten vor Ankunft bestellen!
 
 Ab nächster Woche entfällt auch die 11:30 Uhr Regel:  Einfach mindestens __30 Minuten bevor__ ihr essen möchtet, bequem über Lunchelot bestellen und vom schnellen Service profitieren! Vorbestellungen in der Mittagszeit sind dann bis 13:00 Uhr möglich.
 
