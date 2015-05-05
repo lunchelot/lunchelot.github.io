@@ -11,7 +11,7 @@ Für unsere Nutzer in Immenstaad wird das __Vorbestellen nun noch bequemer__. Di
 
 ## Ab mitte nächster Woche: Einfach 30 Minuten vor Ankunft bestellen!
 
-Ab nächster Woche entfällt auch die 11:30 Uhr Regel:  Einfach mindestens __30 Minuten bevor__ ihr essen möchtet, bequem über Lunchelot bestellen und vom schnellen Service profitieren! Vorbestellungen in der Mittagszeit sind bis 13:00 Uhr möglich.
+Ab nächster Woche entfällt auch die 11:30 Uhr Regel:  Einfach mindestens __30 Minuten bevor__ ihr essen möchtet, bequem über Lunchelot bestellen und vom schnellen Service profitieren! Vorbestellungen in der Mittagszeit sind dann bis 13:00 Uhr möglich.
 
 <img src="{{site.baseurl}}assets/logo-traube.jpg" alt=„Traube „am See />
 
