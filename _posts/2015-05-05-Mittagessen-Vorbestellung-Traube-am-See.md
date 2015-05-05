@@ -2,7 +2,7 @@
 layout: post
 title: Ab sofort ist es möglich bis 11:30 Uhr bei der Traube am See vorzubestellen!
 category: lunchelot
-description: Kurze Mittagspause und gut essen: mit Lunchelot ist beides kombinierbar!
+description: Kurze Mittagspause und gut essen mit Lunchelot ist beides kombinierbar!
 tags:
   - lunchelot
 published: true
