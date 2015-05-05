@@ -11,7 +11,7 @@ Für unsere Nutzer in Immenstaad wird das __Vorbestellen nun noch bequemer__. Di
 
 ## Alle Reservierungen zum Mittagessen in der Traube nun über Lunchelot
 
-Ab nächster Woche wird die Traube auch alle Reservierungen zur Mittagszeit über Lunchelot managen! Bitte bestellt trotzdem auch __weiterhin 30 Minuten bevor__ ihr essen wollt. So hat die Küche ausreichend Zeit alles für euch vorzubereiten.
+Ab nächster Woche wird die Traube auch alle Reservierungen zur Mittagszeit über Lunchelot managen! Bitte bestellt trotzdem auch __weiterhin 30 Minuten bevor__ ihr essen wollt. So hat die Küche ausreichend Zeit alles für euch vorzubereiten. Vorbestellungen in der Mittagszeit sind bis 13:30 Uhr möglich.
 
 <img src="{{site.baseurl}}assets/logo-traube.jpg" alt=„Traube „am See />
 
@@ -21,7 +21,7 @@ Für uns ist die Zusammenarbeit mit der Traube unsere __erste Erfolgsstory__. Da
 
 #### 30 Minuten vorher bestellen - Schneller Service garantiert
 
-Weiterhin ist es zu __empfehlen 30 Minuten vorher__ bei der Traube zu bestellen, so könnt ihr sicher sein, dass euer Essen auch __pünktlich serviert__ wird, wenn ihr am Tisch sitzt. So könnt ihr auch bei einer __kurzfristigeren Entscheidung__, was ihr wo essen wollt, in den Genuß kommen die leckeren Gerichte der Traube genießen! 
+Weiterhin ist es zu __empfehlen 30 Minuten vorher__ bei der Traube zu bestellen, so könnt ihr sicher sein, dass euer Essen auch __pünktlich serviert__ wird, wenn ihr am Tisch sitzt. So könnt ihr auch bei einer __kurzfristigeren Entscheidung__, was ihr wo essen wollt, in den Genuß kommen die leckeren Gerichte der Traube genießen! Vorbestellungen in der Mittagszeit sind bis 13:30 Uhr möglich.
 
 #### Bald können noch mehr Gäste davon profitieren
 
