@@ -9,7 +9,7 @@ published: true
 ---
 Für unsere Nutzer in Immenstaad wird das __Vorbestellen nun noch bequemer__. Die Traube am See hat ein weiteres Tablett für den Servicebereich bekommen und kann nun __Vorbestellungen bis 11:30 Uhr annehmen__. 
 
-## Auch alle Reservierungen der Traube über Lunchelot
+# Auch alle Reservierungen der Traube über Lunchelot
 
 Ab nächster Woche wird die Traube auch alle Reservierungen über Lunchelot managen - egal zu welcher Tageszeit! Bitte bestellt trotzdem auch __weiterhin 30 Minuten bevor__ ihr essen wollt. So hat die Küche ausreichend Zeit alles für euch vorzubereiten.
 
