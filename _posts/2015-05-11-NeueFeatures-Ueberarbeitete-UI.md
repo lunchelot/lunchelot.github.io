@@ -11,7 +11,8 @@ published: true
 
 ## Überarbeitete Benutzeroberfläche seit Freitag online!
 
-Wie im (letzten Post)[2015-04-20-woran-wir-gerade-arbeiten] erwähnt, erwartet Dich nach dem Einloggen jetzt ein Dashboard,
+
+Wie im [letzten Post]({{site.baseurl}}lunchelot/2015/04/20/woran-wir-gerade-arbeiten/) erwähnt, erwartet Dich nach dem Einloggen jetzt ein Dashboard,
 mit dem Du die wichtigsten Informationen zum Mittagessen direkt im Blick hast: Ob und was die Kollegen zu Mittag machen
 sowie übersichtlich die Mittagstische Deiner Lieblingsrestaurants!
 
@@ -36,7 +37,7 @@ beim Mittagessen wieder aufleben zu lassen.
 
 ### Status Sidebar
 
-Auf der linken Seite gibt es jetzt eine Status Sidebar, die Dir auf einen Blick die wichtigsten Infos zeigt: Ob Du an
+Auf der linken Seite der Seite, gibt es jetzt eine Status Sidebar, die Dir auf einen Blick die wichtigsten Infos zeigt: Ob Du an
 Mittagsrunden Teilnimmst, ob es öffentliche Mittagsrunden gibt, ob Du zu einer Mittagsrunde eingeladen wurdest und wie viele Kollegen
 "lunchen" möchten.
 
