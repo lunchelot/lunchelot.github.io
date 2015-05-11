@@ -17,6 +17,8 @@ sowie übersichtlich die Mittagstische Deiner Lieblingsrestaurants!
 
 <img src="{{site.baseurl}}assets/screenshot-dashboard.png" alt="Dashboard Lunchelot" />
 
+<!-- more -->
+
 ## Neue Features im Überblick:
 
 Neben dem oben erwähnten neuen Dashboard, haben wir noch folgende Features eingebaut:
