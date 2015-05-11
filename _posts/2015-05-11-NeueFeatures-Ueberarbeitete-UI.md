@@ -22,45 +22,43 @@ sowie übersichtlich die Mittagstische Deiner Lieblingsrestaurants!
 
 ## Neue Features im Überblick:
 
-Neben dem oben erwähnten neuen Dashboard, haben wir noch folgende Features eingebaut:
+Außerdem haben wir noch folgende Features eingebaut:
 
 ### Der "Ich möchte Lunchen!" Knopf
 
 Wenn Du auf den "Ich möchte Lunchen" Knopf drückst, sehen Deine Kollegen direkt, dass Du gerne an einer Mittagsrunde
-teilnehmen möchtest und z.B. nichts zum essen dabei hast.
+teilnehmen möchtest.
 Die Idee ist, dass man dadurch vielleicht auch Kollegen einlädt, mit denen man nicht so oft essen geht, einfach
- weil man diese aktuell "nicht auf dem Schirm hat"
-z.B. weil man inzwischen in verschiedenen Abteilunge unterwegs ist: "_Hey, der Alex will lunchen. Mit dem war ich ja schon ewig nicht essen!_"
+ weil man diese aktuell "nicht auf dem Schirm hat": "_Hey, der Alex will lunchen. Mit dem war ich ja schon ewig nicht essen!_"
 
-Wir erhoffen uns dadurch also, die Gruppenfindung ein wenig zu vereinfachen und alte Bekanntschaften im Büro
-beim Mittagessen wieder aufleben zu lassen.
+Wir erhoffen uns dadurch, die Gruppenbestellung für euch noch einfacher zu gestalten! So könnt ihr auch einfacher alte Bekanntschaften wieder aufleben oder neue entstehen lassen - in gemütlicher Runde beim Mittagessen. Ladet eure Kollegen einfach ein oder zeigt, dass ihr "lunchen" wollt!
 
 ### Status Sidebar
 
-Auf der linken Seite der Seite, gibt es jetzt eine Status Sidebar, die Dir auf einen Blick die wichtigsten Infos zeigt: Ob Du an
-Mittagsrunden Teilnimmst, ob es öffentliche Mittagsrunden gibt, ob Du zu einer Mittagsrunde eingeladen wurdest und wie viele Kollegen
-"lunchen" möchten.
+Links des Dashboards gibt es jetzt eine Status Sidebar, die Dir auf einen Blick die wichtigsten Infos zeigt: Ob Du an
+Mittagsrunden teilnimmst, ob es öffentliche Mittagsrunden gibt an denen du teilnehmen kannst, ob Du zu einer Mittagsrunde eingeladen wurdest und wie viele Kollegen "lunchen" möchten.
 
 Ein Klick auf ein Symbol, bringt Dich direkt zur Mittagsrunde oder zur Übersicht, je nach dem ob es eine oder mehrere gibt.
 
 ### Mittagsrunde erstellen überarbeitet
 
 Wenn Du eine Mittagsrunde erstellst, zeigt Dir Lunchelot direkt eine Auswahl an Restaurants in Deiner Umgebung. So
-siehst Du direkt welche Restaurants vorhanden sind und kannst sie mit einem Klick auswählen.
-Ausserdem ist es jetzt möglich Kollegen schon beim Anlegen der Mittagsrunde einzuladen.
+siehst Du direkt, welche Restaurants vorhanden sind und kannst sie mit einem Klick auswählen.
+Außerdem ist es jetzt möglich Kollegen noch einfacher, nämlich schon beim Anlegen der Mittagsrunde einzuladen.
 
 ### Entfernung zum Restaurant
 
-Lunchelot zeigt Dir jetzt die Luftlinien Entfernung zum Restaurant/Imbiss in deiner Nähe.
+Lunchelot zeigt Dir jetzt die Entfernung zum Restaurant/Imbiss in deiner Nähe in Luftlinie.
 
-### Standorte
+### Standorte angeben
 
 Im Profil können jetzt Standorte verwaltet werden und gewechselt werden. Ein Standort in Lunchelot ist z.B.
-eine Firma, ein Bürokomplex, eine Schule usw. Ein "Standort" also mit Adresse an dem Ihr miteinander zu Mittag
-esst.
+eine Firma, ein Bürokomplex, eine Schule usw. So weiß Lunchelot mit welchen Leuten und wo du Mittagessen gehen möchtest und kann dir zeigen, was an deinem Standort so geboten ist. 
 
-### Kollegen zu Standort/Organisation einladen
+### Kollegen zu deinem Standort/Organisation einladen
 
-Du kannst jetzt bequem Deine Kollegen auch dazu einladen, Sich mit deinem Standort zu verbinden. Einfach in der
-Menüleiste oben auf den Namen des Standortes klicken und die E-Mail Adresse eintippen!
+Du kannst jetzt bequem Deine Kollegen auch dazu einladen, sich mit deinem Standort zu verbinden. Einfach in der
+Menüleiste oben auf den Namen des Standortes klicken und die E-Mail Adresse eintippen! Das ist auch besonders praktisch, wenn zum Beispiel Kollegen anderer Standorte oder Externe bei euch sind und ihr ihnen zeigen wollt, was und mit wem man essen gehen kann.
+
+
 
