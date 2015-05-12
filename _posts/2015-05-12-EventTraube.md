@@ -8,7 +8,7 @@ tags:
 published: true
 ---
 
-### Leckere Sandwiches für die nächste Mittagspause in der Sonne! 
+#Leckere Sandwiches für die nächste Mittagspause in der Sonne! 
 
 Lunchelot und die Traube am See planen eine Kooperation, um Mitarbeitern in der Region eine __bequeme und gesunde Alternative__ zu üblichem Fastfood zu bieten.  
 
