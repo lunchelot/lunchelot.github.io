@@ -50,7 +50,7 @@ __Euer Team Lunchelot__
 
 und die unermüdliche Küchenfeen für gutes Essen!
 
-Bilder freundlicherweise bereitgestellt von (Uwe Barnstein)[https://www.flickr.com/photos/barnstein]. Viele Dank dafür!
+Bilder freundlicherweise bereitgestellt von <a href="https://www.flickr.com/photos/barnstein" target="_blank">Uwe Barnstein</a>. Viele Dank dafür!
 
 
 
