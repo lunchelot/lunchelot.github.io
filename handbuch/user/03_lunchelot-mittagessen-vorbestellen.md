@@ -8,21 +8,25 @@ type: handbuch-user
 # Stressig im Büro? Du möchtest früher nach Hause?
 
 <p class="message">
-Mit Lunchelot kannst Du bei teilnehmenden Restaurants dein Mittagessen bequem vorbestellen und Zeit im Restaurant sparen!
+Mit Lunchelot kannst Du bei **teilnehmenden Restaurants** dein Mittagessen bequem vorbestellen und Zeit im Restaurant sparen!
 </p>
 
 ## Wie funktioniert es? Spielend einfach!
 
 1. **Mittagsrunde erstellen** Erstelle eine Mittagsrunde bei einem teilnehmenden Restaurant z.B. Traube am See in Friedrichshafen-Fischbach.
-    * **Uhrzeit festlegen:**  Um wieviel Uhr soll der Tisch für Dich und Deine Kollegen bereit stehen?
+    * **Uhrzeit festlegen:**  Um wieviel Uhr soll der Tisch für Dich und Deine Kollegen bereit stehen? Trage hier
+    Datum und Uhrzeit ein.
     * **Kollegen einladen** Lade Kollegen ein, mit denen Du essen möchtest. Ist jemand noch nicht bei Lunchelot angemeldet,
      trage einfach seine E-Mail Adresse in das Feld. Am besten verwendest Du die geschäftliche E-Mail Adresse, um sicher zu gehen,
-     dass dein Kollege die Einladung im Büro auch ließt.
+     dass dein Kollege die Einladung im Büro auch liest.
+
 2. **Bestellung sammeln** Die Gruppenbestellung ist jetzt geöffnet. Wähle bequem aus dem Menü aus, was Du essen und trinken möchtest.
 Du musst nur noch warten, bis auch Deine eingeladenen Kollegen eingetragen haben was sie gerne essen und trinken möchten.
  Haben sich alle eingetragen? Super!
+
 3. **Bestellung übermitteln** Jetzt musst Du eure Bestellung nur noch mit dem "Bestellen!" Knopf an das Restaurant übermitteln
  und Dich zurück lehnen.
+
 4. Das Restaurant bestätigt eure Bestellung üblicherweise noch und weist euch einen Tisch zu. Du bekommst dann eine Bestätigungs E-Mail zugesandt.
 
 
@@ -36,5 +40,5 @@ Nacken sitzt!
 Entspannt essen und dabei Zeit sparen - Lunchelot macht es möglich!
 
 <p class="message">
-Probiere es jetzt gleich aus und bestelle Dein Mittagessen bequem vor!
+<a href="https://lunchelot.de/signin" target="_blank">Probiere es jetzt gleich aus und bestelle Dein Mittagessen bequem vor!</a>
 </p>

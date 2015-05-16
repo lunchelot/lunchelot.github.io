@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Lunchelot Benutzerhandbuch - Mittagstisch finden"
-navigationtitle: "Registrierung und Mittagstisch finden"
+navigationtitle: "Registrierung und Mittagstisch finden."
 type: handbuch-user
 ---
 
