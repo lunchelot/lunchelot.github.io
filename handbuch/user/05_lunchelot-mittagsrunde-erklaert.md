@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: handuch
 title: "Lunchelot Benutzerhandbuch - Mittagsrunden organisieren und praktische Tipps"
 navigationtitle: "Wie organisiere ich eine Mittagsrunde? Mit praktischen Tipps."
 type: handbuch-user
+redirect_from: /handbuch/user/02_lunchelot-mittagsrunde-erklaert/
+permalink: lunchelot-mittagsrunde-erklaert.html
 ---
 
 # Mittagsrunde organisieren
@@ -83,4 +85,3 @@ Du kannst eintragen wer wieviel bezahlt hat. Damit verlierst Du nicht den Überb
 
 ![Lunchelot Screenshot Mittagessen vorbestellen]({{site.baseurl}}handbuch/user/img/screenshot-essen-vorbestellen.png)
 
-{% include twitter_plug.html %}

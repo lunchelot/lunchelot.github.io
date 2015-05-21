@@ -1,14 +1,17 @@
 ---
-layout: page
+layout: handbuch
 title: "Lunchelot Benutzerhandbuch - Schnelle Mittagspause durch praktisches vorbestellen"
-navigationtitle: "Schnelle Mittagspause durch praktisches vorbestellen."
+navigationtitle: "Schnelle Mittagspause durch praktisches vorbestellen im Restaurant."
 type: handbuch-user
+permalink: lunchelot-mittagessen-bequem-im-restaurant-vorbestellen
+redirect_from: /handbuch/user/03_lunchelot-mittagessen-vorbestellen/
 ---
 
 # Stressig im Büro? Du möchtest früher nach Hause?
 
 <p class="message">
-Mit Lunchelot kannst Du bei **teilnehmenden Restaurants** dein Mittagessen bequem vorbestellen und Zeit im Restaurant sparen!
+Mit <a href="https://lunchelot.de">Lunchelot.de</a> kannst Du bei teilnehmenden Restaurants mit Deinen Kollegen
+ spielend einfach Dein <strong>Mittagessen bequem vorbestellen</strong> und Zeit im Restaurant sparen!
 </p>
 
 ## Wie funktioniert es? Spielend einfach!

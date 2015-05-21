@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: handbuch
 title: "Lunchelot Benutzerhandbuch - Was ist eine Mittagsrunde und warum finden wir sie super?"
-navigationtitle: "Lunchelot Mittagsrunde - Was ist eine Mittagsrunde und warum finden wir sie super?"
+navigationtitle: "Was ist eine Lunchelot Mittagsrunde und warum finden wir sie super?"
 type: handbuch-user
+redirect_from: /handbuch/user/02_lunchelot-was-ist-eine-mittagsrunde/
+permalink: lunchelot-was-ist-eine-mittagsrunde.html
 ---
 
 

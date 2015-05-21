@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: handbuch
 title: "Lunchelot Benutzerhandbuch - Mittagstisch finden"
 navigationtitle: "Registrierung und Mittagstisch finden."
 type: handbuch-user
+redirect_from: /handbuch/user/01_lunchelot-was-gibts-heute/
+permalink: lunchelot-mittagstisch-finden.html
 ---
 
 <p class="message">
@@ -33,7 +35,3 @@ Hier erfährst Du, wie Lunchelot Dir helfen kann genau das Mittagessen zu finden
 ## Ich habe ein passendes Essen für mich gefunden - Was kann Lunchelot noch für mich tun?
 *   Je Essen siehst Du auch in welchem Restaurant es angeboten wird. Hast Du dich für eines entschieden, kannst Du auf das Restaurant klicken.
 *   Auf der Restaurant Seite gibt es einen Button _Mittagsrunde starten_. Hiermit startest Du eine Lunchelot Mittagsrunde und kannst nette Leute einladen mit dir bei diesem Restaurant zu essen oder zu bestellen.
-
-[Weiter zum nächsten Beitrag -&gt;]({{site.baseurl}}handbuch/user/02_lunchelot-mittagsrunde-erklaert/)
-
-{% include twitter_plug.html %}
