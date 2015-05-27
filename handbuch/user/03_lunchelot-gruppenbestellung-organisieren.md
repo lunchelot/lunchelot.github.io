@@ -60,7 +60,7 @@ Deine Kollegen wissen jetzt, dass bei eurem Lieblingsrestaurant bestellt wird un
 
 Die Bestellung ist komplett? Super!
 
-<img src="{{site.baseurl}}handbuch/user/img/03/6-mittagsrunde-gruppenbestellung-abholzeit.png" alt="Lunchelot Gruppenbestellung Bestellen" />
+
 
 Dann wird jetzt bestellt: Entweder telefonisch, wenn das Restaurant nicht an Lunchelot angeschlossen ist, oder
 automatisch.
@@ -71,6 +71,8 @@ automatisch.
     * Du kannst jetzt anrufen, und die Bestellunge aufgeben.
     * Nachdem Du angerufen hast, klicke auf den "Bestellt" Knopf. Jetzt kannst Du eintragen, wann das Essen bereit ist zum abholen.
     * Hat sich in der Zwischenzeit noch kein freiwilliger Abholer gefunden, bekommen die Teilnehmer eine Motivationsemail :-)
+
+<img src="{{site.baseurl}}handbuch/user/img/03/6-mittagsrunde-gruppenbestellung-abholzeit.png" alt="Lunchelot Gruppenbestellung Bestellen" />
 
 ## Schritt 4: Bestellung abholen und gemeinsam zu Mittag essen!
 
