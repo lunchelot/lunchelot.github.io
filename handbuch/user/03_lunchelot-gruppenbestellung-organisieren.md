@@ -47,20 +47,20 @@ Deine Kollegen wissen jetzt, dass bei eurem Lieblingsrestaurant bestellt wird un
 
 ## Schritt 2: Bestellungen sammeln
 
-<img src="{{site.baseurl}}handbuch/user/img/03/2-mittagsrunde-gruppenbestellung-bestellung-sammeln-1.png" alt="Lunchelot Gruppenbestellung Bestellung sammeln" />
+<img src="{{site.baseurl}}handbuch/user/img/03/3-mittagsrunde-gruppenbestellung-bestellung-sammeln-1.png" alt="Lunchelot Gruppenbestellung Bestellung sammeln" />
 
 * Jeder trägt das gewünsche Essen einfach als *Freitext in die Textbox* ein oder *wählt bequem aus dem Menü*, wenn eines hinterlegt wurde.
 * Um das Essen *gesammelt zu bezahlen*, bringt jeder Teilnehmer den zu zahlenden Betrag zum Organisator der Runde.
 * Du kannst bequem eintragen, wer wie viel bezahlt hat. Ohne Zettelwirtschaft.
 * Vielleicht findet sich auch noch ein freiwilliger Fahrer, um das Essen gesammelt abzuholen?
 
-<img src="{{site.baseurl}}handbuch/user/img/03/2-mittagsrunde-gruppenbestellung-sammeln-abrechnung.png" alt="Lunchelot Gruppenbestellung Abrechnung" />
+<img src="{{site.baseurl}}handbuch/user/img/03/4-mittagsrunde-gruppenbestellung-sammeln-abrechnung.png" alt="Lunchelot Gruppenbestellung Abrechnung" />
 
 ## Schritt 3: Bestellen
 
 Die Bestellung ist komplett? Super!
 
-<img src="{{site.baseurl}}handbuch/user/img/03/2-mittagsrunde-gruppenbestellung-abholzeit.png" alt="Lunchelot Gruppenbestellung Bestellen" />
+<img src="{{site.baseurl}}handbuch/user/img/03/6-mittagsrunde-gruppenbestellung-abholzeit.png" alt="Lunchelot Gruppenbestellung Bestellen" />
 
 Dann wird jetzt bestellt: Entweder telefonisch, wenn das Restaurant nicht an Lunchelot angeschlossen ist, oder
 automatisch.
@@ -82,7 +82,7 @@ Nach dem Essen kann die Abrechnung noch überprüft werden und die Mittagsrunde 
 So könnt ihr gemeinsam im Büro euer Mittagessen organisieren. Einfach und bequem!
 </p>
 
-<img src="{{site.baseurl}}handbuch/user/img/03/2-mittagsrunde-gruppenbestellung-abrechnen.png" alt="Lunchelot Gruppenbestellung Abrechnen" />
+<img src="{{site.baseurl}}handbuch/user/img/03/7-mittagsrunde-gruppenbestellung-abrechnen.png" alt="Lunchelot Gruppenbestellung Abrechnen" />
 
 
 
