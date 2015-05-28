@@ -31,9 +31,12 @@ Die Idee dazu ist bereits vor 4 Jahren im Kopf des Gründers Arthur Hupka - Soft
 
 > „Die Idee für Lunchelot kam mir als Angestellter an einem Bürostandort ohne Kantine,
 > konfrontiert mit dem täglichen Problem etwas gutes und gesundes zum Mittagessen zu bekommen“
+
+sagt Arthur Hupka
+
 > „Ich habe Lunchelot so gestaltet, dass es für mich und meine Arbeitskollegen einfacher wird die Mittagspause zu organisieren.
 > Anschließend habe ich mit der Traube am See das System weiterentwickelt, sodass es auch für die Gastronomen die Abläufe in der Mittagspause vereinfacht und effizienter macht“.
-sagt Arthur Hupka.
+
 
 Lunchelot startet nun damit weitere Unternehmen und deren Angestellte, sowie Restaurants über die Plattform zusammen zu bringen, zunächst mit Fokus auf die Region rund um den Bodensee.
 
@@ -57,7 +60,6 @@ sagt die Restaurantchefin der Traube am See Sabine Nölke-Damms.
 <p class="message">
 Wer ausprobieren will wie Lunchelot funktioniert kann zum Beispiel in der Traube am See zum Mittagessen gehen und das Essen auf Lunchelot vorbestellen - und selbst sehen ob das Versprechen von Lunchelot stimmt.
 Kurze Mittagspause und super essen schließt sich nicht mehr aus!
-
 </p>
 
 ###Und so geht’s: Auf [Lunchelot.de](https://lunchelot.de/) registrieren oder über den [Blog](http://blog.lunchelot.de/) weiter auf dem Laufenden bleiben.
