@@ -9,7 +9,8 @@ published: true
 ---
 #Gut, gesund, Mittagessen? Und trotzdem kurze Mittagspause? Lunchelot.de jetzt öffentlich verfügbar!
 
-... allerdings noch immer in einer Testphase rund um den Bodensee.
+ ... mit Fokus rund um Immenstaad am Bodensee. Was wird geboten?
+
 Lunchelot.de bietet gutes und schnelles Mittagessen für Berufstätige. Du hast Hunger? Du willst wissen wo deine Kollegen essen gehen? Du willst wissen, ob jemand was bestellt oder wo er essen geht? Die Antworten auf diese Fragen findest du auf Lunchelot.de.
 
 Lunchelot ist eine Online-Plattform zur einfachen Organisation der Mittagspause. Gestartet wurde der Service am Bodensee in Kooperation mit der Traube am See in Friedrichshafen-Fischbach. Nach der Testphase mit Mitarbeitern der Bosch Standorte in Immenstaad am Bodensee,
