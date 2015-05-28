@@ -13,7 +13,7 @@ published: true
 
 Lunchelot.de bietet gutes und schnelles Mittagessen für Berufstätige. Du hast Hunger? Du willst wissen wo deine Kollegen essen gehen? Du willst wissen, ob jemand was bestellt oder wo er essen geht? Die Antworten auf diese Fragen findest du auf Lunchelot.de.
 
-Lunchelot ist eine Online-Plattform zur einfachen Organisation der Mittagspause. Gestartet wurde der Service am Bodensee in Kooperation mit der Traube am See in Friedrichshafen-Fischbach. Nach der Testphase mit Mitarbeitern der Bosch Standorte in Immenstaad am Bodensee,
+Lunchelot ist eine Online-Plattform zur einfachen Organisation der Mittagspause. Gestartet wurde der Service am Bodensee in Kooperation mit der <a href="http://www.traubeamsee.de/restaurant-bar/" target="_blank">Traube am See</a> in Friedrichshafen-Fischbach. Nach der Testphase mit Mitarbeitern der Bosch Standorte in Immenstaad am Bodensee,
 ist Lunchelot.de nun für jeden in der Region nutzbar.
 
 <img src="{{site.baseurl}}assets/mittagsrunde-brotkorb-fuer-dich.jpg" alt="Lunchelot - gut und gesund Mittagessen" />
@@ -27,7 +27,7 @@ Lunchelot ist ein Start-up Projekt vom Bodensee.
 Die Idee dazu ist bereits vor 4 Jahren im Kopf des Gründers Arthur Hupka - Software-Entwicklers und Hobbykoch - entstanden.
  Nach vielen Stunden Entwicklungsarbeit in den Feierabendstunden sowie Wochenenden
  und einer Testphase mit den Büro Kollegen der Bosch Standorte in Immenstaad am Bodesee ist Lunchelot nun endlich Wirklichkeit geworden und für alle nutzbar.
- Die Zusammenarbeit mit dem Restaurant Traube am See in Friedrichshafen-Fischbach hat dem Projekt weiteren Schwung verschafft.
+ Die Zusammenarbeit mit dem Restaurant <a href="http://www.traubeamsee.de/restaurant-bar/" target="_blank">Traube am See</a> in Friedrichshafen-Fischbach hat dem Projekt weiteren Schwung verschafft.
 
 > „Die Idee für Lunchelot kam mir als Angestellter an einem Bürostandort ohne Kantine,
 > konfrontiert mit dem täglichen Problem etwas gutes und gesundes zum Mittagessen zu bekommen“
