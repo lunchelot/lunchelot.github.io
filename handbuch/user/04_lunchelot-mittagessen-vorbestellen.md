@@ -33,7 +33,7 @@ Du musst nur noch warten, bis auch Deine eingeladenen Kollegen eingetragen haben
 4. Das Restaurant bestätigt eure Bestellung üblicherweise noch und weist euch einen Tisch zu. Du bekommst dann eine Bestätigungs E-Mail zugesandt.
 
 
-**Das wars!** Die Küche bereitet euer Mittagessen vor, der Tisch zur vereinbarten Uhrzeit gedeckt mit Premium Service auf euch!
+**Das wars!** Die Küche bereitet euer Mittagessen vor, der Tisch wartet zur vereinbarten Uhrzeit gedeckt mit Premium Service auf euch!
 Vorsicht: Es besteht Gefahr, dasss ihr verwunderte Blicke von Gästen erntet, die Zeitgleich mit euch im Restaurant ankommen.
 Während ihr schon euer Essen bekommt, müssen die Anderen noch bestellen :-)
 

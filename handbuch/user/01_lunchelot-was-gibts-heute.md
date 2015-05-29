@@ -3,8 +3,8 @@ layout: handbuch
 title: "Lunchelot Benutzerhandbuch - Mittagstisch finden"
 navigationtitle: "Registrierung und Mittagstisch finden."
 type: handbuch-user
-redirect_from: /handbuch/user/01_lunchelot-was-gibts-heute/
 permalink: lunchelot-mittagstisch-finden.html
+redirect_from: /handbuch/user/01_lunchelot-was-gibts-heute/
 ---
 
 <p class="message">
