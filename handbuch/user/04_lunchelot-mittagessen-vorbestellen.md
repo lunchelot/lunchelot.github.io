@@ -3,7 +3,7 @@ layout: handbuch
 title: "Lunchelot Benutzerhandbuch - Schnelle Mittagspause durch praktisches vorbestellen"
 navigationtitle: "Schnelle Mittagspause durch praktisches vorbestellen im Restaurant."
 type: handbuch-user
-permalink: lunchelot-mittagessen-bequem-im-restaurant-vorbestellen
+permalink: lunchelot-mittagessen-bequem-im-restaurant-vorbestellen.html
 redirect_from: /handbuch/user/03_lunchelot-mittagessen-vorbestellen/
 ---
 

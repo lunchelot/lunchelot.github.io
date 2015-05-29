@@ -1,5 +1,5 @@
 ---
-layout: handuch
+layout: handbuch
 title: "Lunchelot Benutzerhandbuch - Mittagsrunden organisieren und praktische Tipps"
 navigationtitle: "Wie organisiere ich eine Mittagsrunde? Mit praktischen Tipps."
 type: handbuch-user
