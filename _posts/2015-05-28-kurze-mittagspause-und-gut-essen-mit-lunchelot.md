@@ -1,15 +1,14 @@
 ---
 layout: post
-title: Gut, gesund, schnell Mittagessen? Lunchelot.de ist jetzt frei verfügbar!
+title: Gut, gesund, Mittagessen? Und trotzdem kurze Mittagspause? Lunchelot.de jetzt öffentlich verfügbar!
 category: lunchelot
 description: Kurze Mittagspause und gut essen - mit Lunchelot ist beides kombinierbar.
 tags:
   - lunchelot
 published: true
 ---
-#Gut, gesund, Mittagessen? Und trotzdem kurze Mittagspause? Lunchelot.de jetzt öffentlich verfügbar!
 
- ... mit Fokus rund um Immenstaad am Bodensee. Was wird geboten?
+ ... zunächst mit Fokus rund um Immenstaad am Bodensee. Was wird geboten?
 
 Lunchelot.de bietet gutes und schnelles Mittagessen für Berufstätige. Du hast Hunger? Du willst wissen wo deine Kollegen essen gehen? Du willst wissen, ob jemand was bestellt oder wo er essen geht? Die Antworten auf diese Fragen findest du auf Lunchelot.de.
 
