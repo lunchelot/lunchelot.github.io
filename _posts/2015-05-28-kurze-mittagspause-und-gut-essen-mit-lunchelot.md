@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gut, gesund, Mittagessen? Und trotzdem kurze Mittagspause? Lunchelot.de jetzt öffentlich verfügbar!
+title: Gut und gesund Mittagessen? Und trotzdem kurze Mittagspause? Lunchelot.de jetzt öffentlich verfügbar!
 category: lunchelot
 description: Kurze Mittagspause und gut essen - mit Lunchelot ist beides kombinierbar.
 tags:
