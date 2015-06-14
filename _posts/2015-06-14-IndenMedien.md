@@ -18,7 +18,7 @@ Hier könnt ihr nachlesen:
 
 <img src="{{site.baseurl}}assets/Zietungsartikel_TraubeamSee.jpg" alt="Traube am See Friedrichshafen Essen online bestellen" />
 
-
+<!-- more -->
 
 
 
