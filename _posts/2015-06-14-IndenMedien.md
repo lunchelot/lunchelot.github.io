@@ -8,7 +8,7 @@ tags:
 published: true
 ---
 # Lunchelot.de in den Medien
-Wir hatten die Redaktuere der Schwäbische.de und des Südkurier in der Küche unseres Partner Restaurants Traube am See in Friedrichshafen zu Gast. 
+Wir hatten die Redakteure von Schwäbische.de und des Südkurier in der Küche unseres Partner Restaurants Traube am See in Friedrichshafen zu Gast. 
 
 Hier könnt ihr nachlesen:
 
