@@ -16,7 +16,7 @@ Hier könnt ihr nachlesen:
 
 [Südkurier über Lunchelot](http://www.suedkurier.de/region/bodenseekreis-oberschwaben/friedrichshafen/Mittagessen-per-Mausklick-schnell-auf-dem-Tisch;art372474,7891563 "Essen online bestellen Friedrichshafen")
 
-<img src="{{site.baseurl}}assets/Zietungsartikel_TraubeamSee.jpg" alt="Traube am See Friedrichshafen Essen online bestellen" />
+<img src="{{site.baseurl}}assets/Zeitungsartikel_TraubeamSee.jpg" alt="Traube am See Friedrichshafen Essen online bestellen" />
 
 <!-- more -->
 
