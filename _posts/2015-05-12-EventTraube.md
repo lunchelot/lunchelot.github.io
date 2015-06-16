@@ -2,7 +2,7 @@
 layout: post
 title: Gute und gesunde Sandwiches für eine gesündere Mittagspause! Lunchelot bringt sie euch bald!
 category: lunchelot
-description: Schnell essen und gut essen - mit Lunchelot ist beides kombinierbar.
+description: Kooperation Lunchelot und Traube am See in Friedrichshafen. Sandwiches bald bestellen!
 tags:
   - lunchelot
 published: true
