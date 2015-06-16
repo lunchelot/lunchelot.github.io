@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Gut und gesund Mittagessen? Und trotzdem kurze Mittagspause? Lunchelot.de jetzt öffentlich verfügbar!
+title: Gut und gesund Mittagessen? Und trotzdem kurze Mittagspause? Lunchelot.de bietet die einfache Möglichkeit essen online zu bestellen und Gruppenbestellungen zu organisieren.
 category: lunchelot
-description: Kurze Mittagspause und gut essen - mit Lunchelot ist beides kombinierbar.
+description: Essen online bestellen und Gruppenbestellungen einfach organisieren mit Lunchelot.de
 tags:
   - lunchelot
 published: true
