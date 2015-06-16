@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Über Lunchelot
+title: Über Lunchelot - Mehr Zeit in der Mittagspause!
 ---
 
 <p class="message">
