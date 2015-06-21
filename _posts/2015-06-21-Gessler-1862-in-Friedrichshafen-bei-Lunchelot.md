@@ -29,7 +29,7 @@ Montag bis Samstag 9 – 22 Uhr
 
 Sonntag 11 – 18 Uhr
 
-Adresse:
+__Adresse:__
 
 Gessler 1862
 
