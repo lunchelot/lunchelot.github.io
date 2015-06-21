@@ -31,7 +31,7 @@ Sonntag 11 – 18 Uhr
 
 __Adresse:__
 
-Gessler 1862
+<a href="http://www.gessler1862.de/" target="_blank">Gessler 1862</a>
 
 Friedrichstraße 53
 
