@@ -5,6 +5,7 @@ category: lunchelot
 description: Bei Gessler 1862 in Friedrichshafen Mittagessen online bestellen und Zeit sparen
 tags:
   - lunchelot
+  - partner
 published: true
 ---
 
