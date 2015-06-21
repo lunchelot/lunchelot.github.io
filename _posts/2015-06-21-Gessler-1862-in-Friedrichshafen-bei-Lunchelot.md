@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Neu bei Lunchelot Ab 23. Juni bei Gessler 1862 in Friedrichshafen Mittagessen vorbestellen
+title: Neu bei Lunchelot - Ab 23. Juni bei Gessler 1862 in Friedrichshafen Mittagessen vorbestellen
 category: lunchelot
 description: Bei Gessler 1862 in Friedrichshafen Mittagessen online bestellen und Zeit sparen
 tags:
@@ -30,6 +30,9 @@ Montag bis Samstag 9 – 22 Uhr
 Sonntag 11 – 18 Uhr
 
 Adresse:
+
 Gessler 1862
+
 Friedrichstraße 53
+
 88045 Friedrichshafen
