@@ -51,8 +51,6 @@ So sehen nur diejenigen die Mittagsrunde, die du eingeladen hast.
 
 Und sage uns, wie es dir gefallen hat - auch wenn es dir nicht gefallen hat!
 
--Sabine Mehlin
-
 <a href=""></a>
 
 [Wie man eine Mittagsrunde organisiert, kannst Du hier nachlesen.]({{site.baseurl}}handbuch/user/02_lunchelot-mittagsrunde-erklaert/)
