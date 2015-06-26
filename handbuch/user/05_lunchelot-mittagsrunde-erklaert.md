@@ -1,7 +1,8 @@
 ---
 layout: handbuch
-title: "Lunchelot Benutzerhandbuch - Mittagsrunden organisieren und praktische Tipps"
+title: "Mittagsrunden organisieren und praktische Tipps"
 navigationtitle: "Wie organisiere ich eine Mittagsrunde? Mit praktischen Tipps."
+description: "Wie eine Lunchelot Mittagsrunde funktioniert."
 type: handbuch-user
 redirect_from: /handbuch/user/02_lunchelot-mittagsrunde-erklaert/
 permalink: lunchelot-mittagsrunde-erklaert.html

@@ -1,6 +1,7 @@
 ---
 layout: handbuch
 title: "Lunchelot Benutzerhandbuch - Schnelle Mittagspause durch praktisches vorbestellen"
+description: "Wie mit Lunchelot das Mittagessen bequem bei teilnehmenden Restaurants bestellt werden kann um vor Ort Zeit zu sparen. Mittagstisch einfach und Lecker!"
 navigationtitle: "Schnelle Mittagspause durch praktisches vorbestellen im Restaurant."
 type: handbuch-user
 permalink: lunchelot-mittagessen-bequem-im-restaurant-vorbestellen.html

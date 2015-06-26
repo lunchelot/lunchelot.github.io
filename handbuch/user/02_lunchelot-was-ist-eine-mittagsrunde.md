@@ -1,6 +1,7 @@
 ---
 layout: handbuch
-title: "Lunchelot Benutzerhandbuch - Was ist eine Mittagsrunde und warum finden wir sie super?"
+title: Lunchelot - Was ist eine Mittagsrunde und warum finden wir sie super?
+description: "Wie funktioniert eine Lunchelot Mittagsrunde und wie hilft sie Zeit eim Büro zu sparen? Gruppenbestellungen fürs schnelle Mittagessen mit Kollegen einfach gemacht!"
 navigationtitle: "Was ist eine Lunchelot Mittagsrunde und warum finden wir sie super?"
 type: handbuch-user
 redirect_from: /handbuch/user/02_lunchelot-was-ist-eine-mittagsrunde/

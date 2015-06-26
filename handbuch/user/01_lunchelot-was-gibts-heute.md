@@ -1,6 +1,7 @@
 ---
 layout: handbuch
 title: "Lunchelot Benutzerhandbuch - Mittagstisch finden"
+description: "Wie Lunchelot dabei hilft ein leckeres Mittagessen oder Mittagstisch in Deiner Umgebung zu finden."
 navigationtitle: "Registrierung und Mittagstisch finden."
 type: handbuch-user
 permalink: lunchelot-mittagstisch-finden.html

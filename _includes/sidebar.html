@@ -1,7 +1,12 @@
+
 <div class="sidebar">
+  <div class="" style="background: white">
+    <a href="{{ site.baseurl }}"><img src="{{ site.baseurl }}assets/logo-dark-blog.png" title="Lunchelot.de Blog" /></a>
+  </div>
   <div class="container sidebar-sticky">
+
     <div class="sidebar-about">
-      <h2> <small>blog.</small>
+      <h2>
         <a href="{{ site.baseurl }}">
          {{ site.title }}
         </a>
@@ -10,8 +15,10 @@
     </div>
 
     <nav class="sidebar-nav">
+
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
 
+      <a class="sidebar-nav-item{% if page.url == '/handbuch/user/' %} active{% endif %}" href="{{ site.baseurl }}handbuch/user">Lunchelot - Wie funktioniert's?</a>
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
         `layout: page` in the front-matter. See readme for usage.
@@ -26,11 +33,17 @@
         {% endif %}
       {% endfor %}
 
+
     </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}. <a href="https://lunchelot.de">lunchelot.de</a> <br />
-      <small><a href="https://lunchelot.de/public/impressum">Impressum</a></small> | <small><a href="{{site.baseurl}}about">&Uuml;ber Lunchelot</a></small>
+      <small><a href="https://lunchelot.de/public/impressum">Impressum</a></small> | <small><a href="{{site.baseurl}}about">&Uuml;ber Lunchelot</a></small><br />
+
     </p>
-    <p><a href="{{site.baseurl}}atom.xml">RSS Feed abonnieren</a></p>
+    <p> </p>
+    <p>
+      Social:<br/>
+      <a href="https://twitter.com/LunchelotDE" target="_blank">Twitter</a> | <a href="https://www.facebook.com/pages/Lunchelot/817285571685255" target="_blank">Facebook</a><br />
+      <a href="{{site.baseurl}}atom.xml">RSS Feed</a></p>
   </div>
 </div>

@@ -1,7 +1,8 @@
 ---
 layout: handbuch
 permalink: lunchelot-mittagsrunde-gruppenbestellung-organisieren.html
-title: "Lunchelot.de Gruppenbestellung - Im Büro mit Kollegen gemeinsam bestellen. "
+title: "Lunchelot.de Gruppenbestellung - Im Büro mit Kollegen gemeinsam bestellen."
+description: "Lunchelot.de - Wie Gruppenbestellungen fürs Mittagessen den Alltag im Büro im vereinfachen. Vorbeit mit Zettel und Stift!"
 navigationtitle: "Gruppenbestellung einfach gemacht! Im Büro mit Kollegen gemeinsam bestellen."
 type: handbuch-user
 ---
