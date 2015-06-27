@@ -37,26 +37,38 @@ Die Reservierungen können leicht verwaltet werden und der Service sowie die Kü
 
 ##Schritt für Schritt Anleitung
 
-1. Mittagsmenu eintragen: Der Service tippt einmal die Woche die wöchentlich gültige Mittagskarte in Lunchelot ein. 
+###1. Mittagsmenu eintragen
+  
+Der Service tippt einmal die Woche die wöchentlich gültige Mittagskarte in Lunchelot ein. 
   
 <img src="{{site.baseurl}}assets/gastro/menu-eintragen.png" alt="Menu online stellen" />
   
-2. Eingehende Bestellungen bearbeiten: Die Bestellungen werden auf einem __Tablet im Servicebereich__ bestätigt, und in die Kasse getippt.
+###2. Eingehende Bestellungen bearbeiten
+  
+Die Bestellungen werden auf einem __Tablet im Servicebereich__ bestätigt, und in die Kasse getippt.
   
 <img src="{{site.baseurl}}assets/gastro/reservierungsübersicht.png" alt="Online Bestellungen verwalten" />  
   
-Die Gäste erhalten eine Bestätigungs- mail von Lunchelot mit der Tischnummer und ggf. weiteren Informationen.  
+Die Gäste erhalten eine Bestätigungsmail von Lunchelot mit der Tischnummer und ggf. weiteren Informationen.  
   
 <img src="{{site.baseurl}}assets/gastro/nachricht-gast.png" alt="Online Kommunikation mit Gästen" />
     
-3. Speisen vorbereiten: Auf dem __Tablet in der Küche__ sieht das Personal welche Speisen bestätigt wurden und auf wieviel Uhr sie vorzubereiten sind.
+###3. Speisen vorbereiten
   
-4. Tisch vorbereiten: Zur vereinbarten Uhrzeit stellt der Service den Beilagensalat und die Getränke für die Gäste bereit.
+Auf dem __Tablet in der Küche__ sieht das Personal welche Speisen bestätigt wurden und auf wieviel Uhr sie vorzubereiten sind.
   
-5. Die Gäste können direkt essen: Bei der Ankunft stehen bereits die Vorspeise und die Getränke für die Gäste bereit. Auch die eiligere Kundschaft kann in der Traube essen gehen.
+###4. Tisch vorbereiten
+  
+Zur vereinbarten Uhrzeit stellt der Service den Beilagensalat und die Getränke für die Gäste bereit.
+  
+###5. Die Gäste können direkt essen
+  
+Bei der Ankunft stehen bereits die Vorspeise und die Getränke für die Gäste bereit. Auch die eiligere Kundschaft kann in der Traube essen gehen.
 Die Zeitersparnis kommt besonders bei größeren Gruppen zum Tragen. Hier ist die Aufenthaltsdauer nicht länger als bei 2 Personen.
   
-6. Effizientere Abläufe im Restaurant: Der Service in der Traube kann besser planen, sie haben mehr zufriedene Kunden und der Umsatz pro Tisch steigt.
+###6. Effizientere Abläufe im Restaurant
+  
+Der Service in der Traube kann besser planen, sie haben mehr zufriedene Kunden und der Umsatz pro Tisch steigt.
   
 
 __Die erzielten Vorteile__
