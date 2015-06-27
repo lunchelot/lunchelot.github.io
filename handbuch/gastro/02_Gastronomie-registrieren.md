@@ -51,7 +51,7 @@ Geben Sie an __für welchen Zeitraum Tischreservierungen angenommen werden__ kö
 #####Optionale Angaben ergänzen
 Sie können Ihre __Kontaktdaten angeben__, so können wir oder die Gäste Sie direkt erreichen, zum Beispiel falls etwas nicht klappen sollte (was wir nicht hoffen :-)). 
   
-Außerdem können Sie eine Beschreibung zur Ihrer Gastronomie eintragen. 
+Außerdem können Sie eine __Beschreibung zur Ihrer Gastronomie/ Lieferdienst__ eintragen. 
   
 Zum Beispiel: Welche kulinarische Richtung verfolgt ihr Restaurant - gutbürgerlich, iatlienisch etc.? Haben Sie Parkplätze? Was bieten Sie Ihren Gästen sonst noch? Hier ist Platz dafür.
  <img src="{{site.baseurl}}assets/gastro/basisdaten6.png" alt="Einfach Restaurant registrieren" />
