@@ -25,6 +25,7 @@ Lesen Sie hier weiter wie Lunchelot Ihrer Gastronomie, ihrem Lieferdienst helfen
 ##Wie wird Lunchelot in der Traube genutzt?
 Die Traube am See bewirbt ihr Mittagsmenu nun nicht mehr nur über ein pdf auf der eigenen Website, sondern über
 <a href="https://lunchelot.de/partner/friedrichshafen/traube-am-see-fischbach/9/mittagessen" title="Mittagstisch Traube am See" target="_blank">Lunchelot auch direkt auffindbar für Suchmaschinen</a>  wie google.
+
 <img src="{{site.baseurl}}assets/traube_erfolg/menu.png" alt="Menu online stellen" />
 
 Die Traube am See ermöglicht <a href="{{site.baseurl}}handbuch/user/lunchelot-mittagessen-bequem-im-restaurant-vorbestellen.html">_Mitarbeitern von Firmen der Umgebung gemeinsam Essen auf eine bestimmte Uhrzeit vorzubestellen_,</a> über die praktische online Bestellfunktion von Lunchelot.
@@ -37,11 +38,15 @@ Die Reservierungen können leicht verwaltet werden und der Service sowie die Kü
 ##Schritt für Schritt Anleitung
 
 1. Mittagsmenu eintragen: Der Service tippt einmal die Woche die wöchentlich gültige Mittagskarte in Lunchelot ein. 
+
 <img src="{{site.baseurl}}assets/gastro/menu-eintragen.png" alt="Menu online stellen" />
 
 2. Eingehende Bestellungen bearbeiten: Die Bestellungen werden auf einem __Tablet im Servicebereich__ bestätigt, und in die Kasse getippt.
+
 <img src="{{site.baseurl}}assets/gastro/reservierungsübersicht.png" alt="Online Bestellungen verwalten" />  
+
 Die Gäste erhalten eine Bestätigungs- mail von Lunchelot mit der Tischnummer und ggf. weiteren Informationen.  
+
 <img src="{{site.baseurl}}assets/gastro/nachricht-gast.png" alt="Online Kommunikation mit Gästen" />
 
 3. Speisen vorbereiten: Auf dem __Tablet in der Küche__ sieht das Personal welche Speisen bestätigt wurden und auf wieviel Uhr sie vorzubereiten sind.
