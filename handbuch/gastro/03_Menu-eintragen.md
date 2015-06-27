@@ -22,9 +22,9 @@ Sie können ganz einfach Ihren __Mittagstisch__, ihre __reguläre Speisekarte__ 
   
 Klick auf **"Menüs verwalten"**. Hier können Sie auswählen, ob Sie den Mittagstisch, die reguläre Speisekarte oder ein spezielles Catering Angebot für Firmen eintragen möchten.
   
-<img src="{{site.baseurl}}assets/gastro/menu-eintragen1.png" alt="Mittagstisch Speisekarte online bewerben" />
-
 Wählen Sie eines der Möglichkeiten per Klick aus: **"Mittagstisch"** (Oder **"Speisekarte"**, **"Catering"**)
+  
+<img src="{{site.baseurl}}assets/gastro/menu-eintragen1.png" alt="Mittagstisch Speisekarte online bewerben" />
   
 ####2. Schritt
   
@@ -67,9 +67,8 @@ Außerdem können Sie eine Beschreibung anfügen, wenn beispielsweise eine Vorsp
 Speichern und fertig!
   
 
-#### So gehts weiter
+#### Weiter mit "Registrierung verwalten"
   
-<a href=„http://blog.lunchelot.de/handbuch/gastro/unchelot-Restaurant-Bestellung-online.html title="Weiter geht's mit der Verwaltung der Registrierung" target="_blank"> 
 
 
 
