@@ -6,7 +6,7 @@ description: Mit Lunchelot Umsatz steigern in der Gastronomie. Premium Service f
 tags:
   - lunchelot
   - gastro
-published: false
+published: true
 ---
 
 Die Traube hat uns, als erste Partner-Gastronomie von Lunchelot, viel Vertrauensvorschuß gegeben.
