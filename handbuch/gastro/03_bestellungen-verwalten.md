@@ -40,12 +40,12 @@ Bei Annahme der Reservierung können Sie die Tischnummer angeben. Diese kann auc
 <img src="{{site.baseurl}}assets/gastro/nachricht-gast.png" alt="Reservierungen annehmen/ablehnen" />
   
 ####5. Schritt
-Unter dem Menupunkt "Bestellungen" können Sie im Service oder in der Küche sehen, welche Bestellungen auf welche Uhrzeit zuzubereiten sind.
+Unter dem Reiter __Bestellungen__ können Sie im Service oder in der Küche sehen, welche Bestellungen auf welche Uhrzeit zuzubereiten sind.
   
 <img src="{{site.baseurl}}assets/gastro/FEHLT.png" alt="Reservierungen annehmen/ablehnen" />
   
 ####6. Schritt
-Die Bestellungen können Sie nun noch in Ihr Kassensystem übertragen. Möglicherweise ist dies auch über Lunchelot autmatisch möglich. Kontaktieren Sie uns und wir besprechen die Details: [E-Mail schreiben an hallo@lunchelot.de](hallo@lunchelot.de)
+Die Bestellungen können Sie nun __noch in Ihr Kassensystem übertragen__. Möglicherweise ist dies auch __über Lunchelot automatisch möglich__. Kontaktieren Sie uns und wir besprechen die Details: [E-Mail schreiben an hallo@lunchelot.de](hallo@lunchelot.de)
   
 ####7. Schritt
   
