@@ -11,7 +11,7 @@ permalink: lunchelot-voraussetzung-gastro.html
 
 
 ## Menü bewerben 
-Sie können Ihr Menü eintragen und über Lunchelot bewerben ohne Voraussetzungen zu erfüllen.  Ihr Menü wird automatisch über Suchmaschinen wie google auffindbar sein - Lunchelot ist eine sehr einfache Möglichkeit eine Online Präsenz zu haben und wechselnde Menüs zu bewerben.
+Sie können Ihr __Menü eintragen und über Lunchelot bewerben__ ohne Voraussetzungen zu erfüllen.  Ihr M__enü wird automatisch über Suchmaschinen wie google auffindbar__ sein - Lunchelot ist eine sehr __einfache Möglichkeit eine Online Präsenz__ zu haben und wechselnde Menüs zu bewerben.
 
 ## Bestellungen und Vorbestellungen/ Reservierungen annehmen
 Wenn Sie die praktischen Funktionen "Bestellen" oder "Vorbestellen" von Lunchelot nutzen möchten, sollten Sie einige Voraussetzungen erfüllen: 
