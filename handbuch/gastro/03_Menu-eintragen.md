@@ -67,7 +67,7 @@ Außerdem können Sie eine Beschreibung anfügen, wenn beispielsweise eine Vorsp
 Speichern und fertig!
   
 
-#### Weiter mit "Registrierung verwalten"
+#### Weiter mit "Reservierung verwalten"
   
 
 
