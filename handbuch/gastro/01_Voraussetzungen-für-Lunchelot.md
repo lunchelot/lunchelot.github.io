@@ -26,8 +26,6 @@ Wenn Sie die praktischen Funktionen "Bestellen" oder "Vorbestellen" von Lunchelo
 
 ###Sie möchten loslegen?  [Hier einfach registrieren](https://lunchelot.de/signup)
 
-### Hier beschreiben wir wie die Registrierung funktioniert:  
-<a href="LINK" title="Mittagstisch Traube am See" target="_blank">Bei Lunchelot registrieren Schritt für Schritt Anleitung</a>
-
+#### Weiter mit "Registrieren"
 
 
