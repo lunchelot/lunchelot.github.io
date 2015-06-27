@@ -8,10 +8,9 @@ permalink: lunchelot-Restaurant-Speisekarte-online.html
 ---
 
 # Schnell und einfach ihr Menu eintragen
-
-<p class="message">
+  
 Sie können ganz einfach Ihren __Mittagstisch__, ihre __reguläre Speisekarte__ und/oder ihr __Cateringangebot__ auf Lunchelot.de eintragen. Ihre Angebote können dann in __Suchmaschinen gefunden__, auf __Facebook__ oder ihrer __Homepage verlinkt__ werden. So __sparen Sie sich Aufwand__ und bekommen eine einfache Möglichkeit ihr __Menu online zu bewerben__! 
-</p>
+  
 
 ## So sieht die Menu Verwaltung aus: 
   
