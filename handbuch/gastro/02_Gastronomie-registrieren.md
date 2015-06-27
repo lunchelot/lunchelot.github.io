@@ -39,14 +39,17 @@ Unser Premium Service ist "Vorbestellung bei Lunchelot" (gelber Pfeil). Durch an
 Falls Sie angegeben haben, dass man bei Ihnen bestellen kann, können Sie optional auch angeben, __bis zu welcher Uhrzeit Sie Bestellungen annehmen__.
  <img src="{{site.baseurl}}assets/gastro/basisdaten3.png" alt="Einfach Restaurant registrieren" />
   
+####4. Schritt
 #####Kapazität in Personen
 Sie können auch die __maximale Kapazität je Tag für Bestellungen oder Reservierungen__ über Lunchelot beschränken. So können zum Beispiel bis zu 50 oder bis zu 10 etc. Personen am Tag über lunchelot bei Ihnen bestellen.
  <img src="{{site.baseurl}}assets/gastro/basisdaten4.png" alt="Einfach Restaurant registrieren" />
    
+####5. Schritt
 #####Tischreservierungen von bis angeben
 Geben Sie an __für welchen Zeitraum Tischreservierungen angenommen werden__ können. Zum Beispiel den ganzen Tag zu Ihren Öffnungszeiten oder nur für eine gewissen Zeitraum.
  <img src="{{site.baseurl}}assets/gastro/basisdaten5.png" alt="Einfach Restaurant registrieren" />
   
+####6. Schritt  
 #####Optionale Angaben ergänzen
 Sie können Ihre __Kontaktdaten angeben__, so können wir oder die Gäste Sie direkt erreichen, zum Beispiel falls etwas nicht klappen sollte (was wir nicht hoffen :-)). 
   
@@ -56,7 +59,7 @@ Zum Beispiel: Welche kulinarische Richtung verfolgt ihr Restaurant - gutbürgerl
  <img src="{{site.baseurl}}assets/gastro/basisdaten6.png" alt="Einfach Restaurant registrieren" />
    
 
-####4. Schritt
+####7. Schritt
 Speichern und fertig!
   
 
