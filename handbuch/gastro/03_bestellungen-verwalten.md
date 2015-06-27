@@ -5,7 +5,7 @@ title: "Lunchelot Benutzerhandbuch - Reservierungen verwalten"
 description: "Bestellungen organiseren mit Lunchelot- Mehr Effizienz in Ihrer Gastronomie."
 navigationtitle: "Reservierungen verwalten"
 type: handbuch-gastro
-permalink: lunchelot-Restaurant-Bestellung-online.html
+permalink: unchelot-Restaurant-Bestellung-online.html
 ---
 
 # Bestellungen annehmen oder ablehnen
