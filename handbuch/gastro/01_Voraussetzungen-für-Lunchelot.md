@@ -2,7 +2,7 @@
 layout: handbuch
 title: "Lunchelot Benutzerhandbuch - Voraussetzungen Lunchelot für Restaurants/ Lieferdienste/ Catering"
 description: " Restaurant eintragen bei Lunchelot - Effizienz und Umstätze steigern"
-navigationtitle: "Voraussetzungen für die Nutzung der Lunchelot Funktionen bei Ihrem Restaurant/ Lieferdienst/ Catering"
+navigationtitle: "Voraussetzungen für die Nutzung der Lunchelot Funktionen"
 type: handbuch-gastro
 permalink: lunchelot-voraussetzung-gastro.html
 ---
