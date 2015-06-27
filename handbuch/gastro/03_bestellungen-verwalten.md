@@ -1,4 +1,3 @@
-
 ---
 layout: handbuch
 title: "Lunchelot Benutzerhandbuch - Reservierungen verwalten"
