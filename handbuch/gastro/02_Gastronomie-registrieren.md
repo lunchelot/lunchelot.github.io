@@ -34,7 +34,7 @@ Unser Premium Service ist "Vorbestellung bei Lunchelot" (gelber Pfeil). Durch an
 
 <img src="{{site.baseurl}}assets/gastro/basisdaten.png" alt="Einfach Restaurant registrieren" />
   
-####4. Schritt
+####3. Schritt
 #####Bestellannahme bis
 Falls Sie angegeben haben, dass man bei Ihnen bestellen kann, können Sie optional auch angeben, __bis zu welcher Uhrzeit Sie Bestellungen annehmen__.
  <img src="{{site.baseurl}}assets/gastro/basisdaten3.png" alt="Einfach Restaurant registrieren" />
@@ -56,7 +56,7 @@ Zum Beispiel: Welche kulinarische Richtung verfolgt ihr Restaurant - gutbürgerl
  <img src="{{site.baseurl}}assets/gastro/basisdaten6.png" alt="Einfach Restaurant registrieren" />
    
 
-####5. Schritt
+####4. Schritt
 Speichern und fertig!
   
 
