@@ -46,7 +46,7 @@ Sie können auch die maximale Kapazität je Tag für Bestellungen oder Reservier
  
 #####Tischreservierungen von bis angeben
 Geben Sie an für welchen Zeitraum Tischreservierungen angenommen werden können. Zum Beispiel den ganzen Tag zu Ihren Öffnungszeiten oder nur für eine gewissen Zeitraum.
- <img src="{{site.baseurl}}assets/gastro/basisdaten4.png" alt="Einfach Restaurant registrieren" />
+ <img src="{{site.baseurl}}assets/gastro/basisdaten5.png" alt="Einfach Restaurant registrieren" />
 
 #####Optionale Angaben ergänzen
 Sie können Ihre Kontaktdaten angeben, so können wir oder die Gäste Sie direkt erreichen, zum Beispiel falls etwas nicht klappen sollte (was wir nicht hoffen :-)). 
