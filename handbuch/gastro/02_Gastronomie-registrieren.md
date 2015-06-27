@@ -61,8 +61,7 @@ Zum Beispiel: Welche kulinarische Richtung verfolgt ihr Restaurant - gutbürgerl
 Speichern und fertig!
   
 
-#### So gehts weiter
-<a href=„LINK fehlt noch title="Weiter geht's mit dem eintragen Ihrer Menus" target="_blank"> 
+#### Weiter mit "Speisekarte und Mittagstisch eintragen"
 
 
 
