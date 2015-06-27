@@ -1,15 +1,22 @@
 ---
 layout: page
-title: "Lunchelot Funktionen"
+title: "Lunchelot Funktionen im Überblick"
+description: "Mittagessen und Mittagstisch einfach gemacht für Angestellte und Gastronomie"
 ---
-<h2>Mittagstische finden und Gruppenbestellungen organisieren.</h2>
+<p></p>
 <ol class="index">
-{% assign pages_list = site.pages %}
-{% for node in pages_list %}
-{% if node.title != null %}
-{% if node.type != null %}
-<li><a href="{{ node.url }}">{{ node.navigationtitle }}</a> <br /></li>
-{% endif %}
-{% endif %}
-{% endfor %}
+  <li><a href="{{site.baseurl}}handbuch/user">Funktionen für User</a></li>
+  <li><a href="{{site.baseurl}}handbuch/gastro">Funktionen für Gastro</a></li>
 </ol>
+
+<hr />
+
+<h2><a href="{{site.baseurl}}handbuch/gastro">Funktionen für User</a></h2>
+<h3>Mittagstische finden Mittagessen vorbestellen und Gruppenbestellungen organisieren.</h3>
+{% include handbuch_index_user.html %}
+
+<hr />
+
+<h2><a href="{{site.baseurl}}handbuch/gastro">Funktionen für Gastro</a></h2>
+<h3>Lunchelot erfolgreich in der Gastronomie einsetzen. Benutzerhandbuch für Gastronomen.</a></h3>
+{% include handbuch_index_gastro.html %}

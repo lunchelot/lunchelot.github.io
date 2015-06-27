@@ -7,18 +7,22 @@
 
     <div class="sidebar-about">
       <h2>
-        <a href="{{ site.baseurl }}">
          {{ site.title }}
-        </a>
       </h2>
       <p class="lead">{{ site.description }}</p>
     </div>
-
+<hr />
     <nav class="sidebar-nav">
 
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
+          <a class="sidebar-nav-item{% if page.url == '/handbuch/' %} active{% endif %}" href="{{ site.baseurl }}handbuch/">Lunchelot - Wie funktioniert's?</a>
+          <ul>
+            <li><a class="sidebar-nav-item{% if page.url == '/handbuch/user/' %} active{% endif %}" href="{{ site.baseurl }}handbuch/user">User</a></li>
+            <li><a class="sidebar-nav-item{% if page.url == '/handbuch/gastro/' %} active{% endif %}" href="{{ site.baseurl }}handbuch/gastro">Gastro</a></li>
+          </ul>
 
-      <a class="sidebar-nav-item{% if page.url == '/handbuch/user/' %} active{% endif %}" href="{{ site.baseurl }}handbuch/user">Lunchelot - Wie funktioniert's?</a>
+
+
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
         `layout: page` in the front-matter. See readme for usage.
@@ -35,7 +39,7 @@
 
 
     </nav>
-
+<hr />
     <p>&copy; {{ site.time | date: '%Y' }}. <a href="https://lunchelot.de">lunchelot.de</a> <br />
       <small><a href="https://lunchelot.de/public/impressum">Impressum</a></small> | <small><a href="{{site.baseurl}}about">&Uuml;ber Lunchelot</a></small><br />
 

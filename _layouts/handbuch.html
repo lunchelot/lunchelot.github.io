@@ -1,5 +1,6 @@
 ---
 layout: default
+css: handbuch
 ---
 
 <div class="page text-content">
@@ -9,4 +10,9 @@ layout: default
 
 <hr />
 <h3>Was kann Lunchelot noch für mich tun?</h3>
-{% include handbuch_index.html %}
+
+{% if page.type == "handbuch-user" %}
+  {% include handbuch_index_user.html %}
+{% elsif page.type == "handbuch-gastro" %}
+  {% include handbuch_index_gastro.html %}
+{% endif %}

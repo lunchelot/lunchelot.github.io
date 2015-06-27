@@ -10,6 +10,9 @@ description: Essen online bestellen und Gruppenbestellungen mit Lunchelot.de
 
 Lunchelot ist ein einfaches Tool, um Mittagstische zu suchen, Gruppenbestellungen mit Arbeitskollegen zu organisieren, über das System onlien Essen zu bestellen (und zukünftig auch zu bezahlen) und dabei viel Zeit zu sparen. Damit mehr Zeit in der Mittagspause oder nach Feierabend bleibt, um spazieren oder joggen zu gehen oder für ein Beach-Volleyball Match, wie wir das am See manchmal machen.
 
+<div style="text-align: center">
+<h2><a href="https://lunchelot.de">Hier geht's zu Lunchelot.de - Jetzt vorbei schauen!</a></h2>
+</div>
 ## Bürostuhlakrobaten haben Rückenbeschwerden, Maus-Arme und Computer-Augen. 
 
 Luncheloter haben mehr Zeit dadurch, dass sie weniger Zeit mit der Organisation der Mittagspause verbringen: 
