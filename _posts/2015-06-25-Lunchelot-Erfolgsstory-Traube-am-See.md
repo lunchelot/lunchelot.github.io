@@ -37,12 +37,12 @@ Die Reservierungen können leicht verwaltet werden und der Service sowie die Kü
 ##Schritt für Schritt Anleitung
 
 1. Mittagsmenu eintragen: Der Service tippt einmal die Woche die wöchentlich gültige Mittagskarte in Lunchelot ein. 
-<img src="{{site.baseurl}}assets/traube_erfolg/menu_verwalten.png" alt="Menu online stellen" />
+<img src="{{site.baseurl}}assets/gastro/menu-eintragen.png" alt="Menu online stellen" />
 
 2. Eingehende Bestellungen bearbeiten: Die Bestellungen werden auf einem __Tablet im Servicebereich__ bestätigt, und in die Kasse getippt.
-<img src="{{site.baseurl}}assets/traube_erfolg/regverwaltung.png" alt="Online Bestellungen verwalten" />  
+<img src="{{site.baseurl}}assets/gastro/reservierungsübersicht.png" alt="Online Bestellungen verwalten" />  
 Die Gäste erhalten eine Bestätigungs- mail von Lunchelot mit der Tischnummer und ggf. weiteren Informationen.  
-<img src="{{site.baseurl}}assets/traube_erfolg/reservierung.png" alt="Online Kommunikation mit Gästen" />
+<img src="{{site.baseurl}}assets/gastro/nachricht-gast.png" alt="Online Kommunikation mit Gästen" />
 
 3. Speisen vorbereiten: Auf dem __Tablet in der Küche__ sieht das Personal welche Speisen bestätigt wurden und auf wieviel Uhr sie vorzubereiten sind.
 
