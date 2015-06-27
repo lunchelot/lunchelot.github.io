@@ -22,10 +22,13 @@ Tragen Sie die Pflichtangaben, gekennzeichnet mit "erforderlich" ein.
 
 ####2. Schritt
 #####Service angeben
-Tragen Sie ein welchen Service Sie den Gästen bieten. Unter Standard Services (blauer Pfeil) können Sie angeben ob Gäste: 
+Tragen Sie ein welchen Service Sie den Gästen bieten. 
+  
+Unter Standard Services (blauer Pfeil) können Sie angeben ob Gäste: 
+  
 * weder bestellen noch abholen können "Einfach ins Restaurant gehen" (Minimal Einstellung)
-*  bestellen und selbst abholen können
-*  oder bestellen können und das Essen von Ihrem Restaurant/ Lieferdienst geliefert wird "Bestellen und Liefern"
+* bestellen und selbst abholen können
+* oder bestellen können und das Essen von Ihrem Restaurant/ Lieferdienst geliefert wird "Bestellen und Liefern"
 
 Unser Premium Service ist "Vorbestellung bei Lunchelot" (gelber Pfeil). Durch angeben dieser Funktion können Gäste bei Ihnen über Lunchelot Essen auf eine vereinbarte Zeit vorbestellen und vor Ort essen. Diese Funktion lohnt sich sehr! Probieren Sie es aus. 
 <a href="fehlt noch" target="_blank">Lesen Sie hier warum</a>.
