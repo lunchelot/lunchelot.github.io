@@ -71,7 +71,7 @@ Die Zeitersparnis kommt besonders bei größeren Gruppen zum Tragen. Hier ist di
 Der Service in der Traube kann besser planen, sie haben mehr zufriedene Kunden und der Umsatz pro Tisch steigt.
   
 
-__Die erzielten Vorteile__
+##Die erzielten Vorteile
 
 * Effizientere Abläufe im Service
 * Bessere Planbarkeit des Mittagstischs
