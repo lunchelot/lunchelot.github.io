@@ -4,7 +4,7 @@ title: "Lunchelot Benutzerhandbuch - Restaurant/Lieferdienst/ Catering registrie
 description: "Restaurant online bewerben leicht mit Lunchelot"
 navigationtitle: "Restaurant/Lieferdienst/ Catering in wenigen Schritten registrieren und online bewerben"
 type: handbuch-gastro
-published: false
+permalink: lunchelot-gastro-registrieren.html
 ---
 
 # Restaurant/ Lieferdienst/ Catering schnell und einfach eintragen
