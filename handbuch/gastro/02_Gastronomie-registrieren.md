@@ -8,10 +8,9 @@ permalink: lunchelot-gastro-registrieren.html
 ---
 
 # Restaurant/ Lieferdienst/ Catering schnell und einfach eintragen
-
-<p class="message">
+  
 Registrieren Sie sich schnell und einfach indem Sie ein paar Basisdaten auf Lunchelot.de eintragen und los geht's!
-</p>
+  
 
 ###So funktioniert's :
   
