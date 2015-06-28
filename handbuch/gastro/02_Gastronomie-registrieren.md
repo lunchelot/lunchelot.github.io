@@ -18,6 +18,8 @@ So kommen Sie auf das Registrierungsformular: Über den Reiter __Gastro Info__ a
 
 ###So funktioniert's :
   
+  __Starten Sie mit dem eintragen der Basisdaten.__
+  
 ####1. Schritt
 #####Pflichtangaben eintragen
 Tragen Sie die Pflichtangaben, gekennzeichnet mit "erforderlich" ein.
