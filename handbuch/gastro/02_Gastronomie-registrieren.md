@@ -11,6 +11,10 @@ permalink: lunchelot-gastro-registrieren.html
   
 Registrieren Sie sich schnell und einfach indem Sie ein paar Basisdaten auf Lunchelot.de eintragen und los geht's!
   
+So kommen Sie auf das Registrierungsformular: Über den Reiter __Gastro Info__ auf den orangenen Kasten __Jetzt kostenlos anmelden__ klicken. 
+  
+<img src="{{site.baseurl}}assets/gastro/reg-gastro.png" alt="Einfach Restaurant registrieren" />
+  
 
 ###So funktioniert's :
   
