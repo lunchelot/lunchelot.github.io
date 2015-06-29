@@ -35,31 +35,21 @@ Unter Standard Services (blauer Pfeil) können Sie angeben ob Gäste:
 * bestellen und selbst abholen können
 * oder bestellen können und das Essen von Ihrem Restaurant/ Lieferdienst geliefert wird "Bestellen und Liefern"
 
-Unser Premium Service ist "Vorbestellung bei Lunchelot" (gelber Pfeil). Durch angeben dieser Funktion können Gäste bei Ihnen über Lunchelot Essen auf eine vereinbarte Zeit vorbestellen und vor Ort essen. Diese Funktion lohnt sich sehr! Probieren Sie es aus. 
-<a href="fehlt noch" target="_blank">Lesen Sie hier warum</a>.
+Unser Premium Service ist "Vorbestellung bei Lunchelot". Durch angeben dieser Funktion können Gäste bei Ihnen über Lunchelot Essen auf eine vereinbarte Zeit vorbestellen und vor Ort essen.
+
+####Vorbestellungen mit Lunchelot
+Diese Funktion steht in der kostenlosen Basisvariante von Lunchelot nicht zur verfügung. Wenn Sie Vorbestellungen akzeptieren möchten, kontaktieren sie uns unter _hallo@lunchelot.de_ und wir setzen uns
+umgehend mit Ihnen in Verbindung und schalten diese Funktion für Sie frei.
+
 
 <img src="{{site.baseurl}}assets/gastro/basisdaten.png" alt="Einfach Restaurant registrieren" />
-  
+
+
 ####3. Schritt
-#####Bestellannahme bis
-Falls Sie angegeben haben, dass man bei Ihnen bestellen kann, können Sie optional auch angeben, __bis zu welcher Uhrzeit Sie Bestellungen annehmen__.
- <img src="{{site.baseurl}}assets/gastro/basisdaten3.png" alt="Einfach Restaurant registrieren" />
-  
-####4. Schritt
-#####Kapazität in Personen
-Sie können auch die __maximale Kapazität je Tag für Bestellungen oder Reservierungen__ über Lunchelot beschränken. So können zum Beispiel bis zu 50 oder bis zu 10 etc. Personen am Tag über lunchelot bei Ihnen bestellen.
- <img src="{{site.baseurl}}assets/gastro/basisdaten4.png" alt="Einfach Restaurant registrieren" />
-   
-####5. Schritt
-#####Tischreservierungen von bis angeben
-Geben Sie an __für welchen Zeitraum Tischreservierungen angenommen werden__ können. Zum Beispiel den ganzen Tag zu Ihren Öffnungszeiten oder nur für eine gewissen Zeitraum.
- <img src="{{site.baseurl}}assets/gastro/basisdaten5.png" alt="Einfach Restaurant registrieren" />
-  
-####6. Schritt  
 #####Optionale Angaben ergänzen
 Sie können Ihre __Kontaktdaten angeben__, so können wir oder die Gäste Sie direkt erreichen, zum Beispiel falls etwas nicht klappen sollte (was wir nicht hoffen :-)). 
   
-Außerdem können Sie eine __Beschreibung zur Ihrer Gastronomie/ Lieferdienst__ eintragen. 
+Außerdem können Sie eine __Beschreibung zur Ihrer Gastronomie/ Lieferdienst__ eintragen, was wir sehr empfehlen.
   
 Zum Beispiel: Welche kulinarische Richtung verfolgt ihr Restaurant - gutbürgerlich, iatlienisch etc.? Haben Sie Parkplätze? Was bieten Sie Ihren Gästen sonst noch? Hier ist Platz dafür.
  <img src="{{site.baseurl}}assets/gastro/basisdaten6.png" alt="Einfach Restaurant registrieren" />
