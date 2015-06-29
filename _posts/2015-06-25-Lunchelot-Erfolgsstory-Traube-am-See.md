@@ -25,8 +25,6 @@ Lesen Sie hier weiter wie Lunchelot Ihrer Gastronomie, ihrem Lieferdienst helfen
 ##Wie wird Lunchelot in der Traube genutzt?
 Die Traube am See bewirbt ihr Mittagsmenu nun nicht mehr nur über ein pdf auf der eigenen Website, sondern über
 <a href="https://lunchelot.de/partner/friedrichshafen/traube-am-see-fischbach/9/mittagessen" title="Mittagstisch Traube am See" target="_blank">Lunchelot auch direkt auffindbar für Suchmaschinen</a>  wie google.
-  
-<img src="{{site.baseurl}}assets/traube_erfolg/menu.png" alt="Menu online stellen" />
 
 Die Traube am See ermöglicht <a href="{{site.baseurl}}handbuch/user/lunchelot-mittagessen-bequem-im-restaurant-vorbestellen.html">_Mitarbeitern von Firmen der Umgebung gemeinsam Essen auf eine bestimmte Uhrzeit vorzubestellen_,</a> über die praktische online Bestellfunktion von Lunchelot.
 Viele Berufstätige nutzen die Möglichkeit, um auch in einer kurzen Mittagspause Essen gehen zu können.
@@ -92,4 +90,14 @@ Der Service in der Traube kann besser planen, sie haben mehr zufriedene Kunden u
 
 ## Sie möchten Lunchelot auch in Ihrem Restaurant ausprobieren?
 
-Schreiben Sie uns eine E-Mail an <a href="mailto:hallo@lunchelot.de">hallo@lunchelot.de</a> oder nutzen Sie das <a href="https://lunchelot.de/#kontakt" target="_blank">Kontaktformular</a>. Wir melden uns so schnell wie möglich bei Ihnen!
+Probieren Sie es gleich aus, erstellen Sie einen kostenlosen Gastro Account und stellen sie ihr Mittagsmenü online. Es ist ganz einfach!
+
+### Lesen Sie hier wie sie sich bei Lunchelot registrieren und ihr Menü online stellen:
+[Bei Lunchelot registrieren und Menü online stellen]({{ site.baseurl }}handbuch/gastro/lunchelot-gastro-registrieren.html)
+
+oder besuchen Sie unsere Gastro Info Seite:
+
+[Zur Gastro Info Seite](https://lunchelot.de/public/gastronomie)
+
+
+Bei Fragen, schreiben Sie uns an <a href="mailto:hallo@lunchelot.de">hallo@lunchelot.de</a> oder nutzen Sie das <a href="https://lunchelot.de/#kontakt" target="_blank">Kontaktformular</a>. Wir melden uns so schnell wie möglich bei Ihnen!
