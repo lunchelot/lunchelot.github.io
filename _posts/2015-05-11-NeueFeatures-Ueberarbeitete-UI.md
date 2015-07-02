@@ -60,5 +60,7 @@ eine Firma, ein Bürokomplex, eine Schule usw. So weiß Lunchelot mit welchen Le
 Du kannst jetzt bequem Deine Kollegen auch dazu einladen, sich mit deinem Standort zu verbinden. Einfach in der
 Menüleiste oben auf den Namen des Standortes klicken und die E-Mail Adresse eintippen! Das ist auch besonders praktisch, wenn zum Beispiel Kollegen anderer Standorte oder Externe bei euch sind und ihr ihnen zeigen wollt, was und mit wem man essen gehen kann.
 
+  
+<a href="https://lunchelot.de/">lunchelot.de</a>
 
 
