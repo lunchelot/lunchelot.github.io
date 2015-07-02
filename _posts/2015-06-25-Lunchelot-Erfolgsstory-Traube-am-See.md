@@ -101,3 +101,5 @@ oder besuchen Sie unsere Gastro Info Seite:
 
 
 Bei Fragen, schreiben Sie uns an <a href="mailto:hallo@lunchelot.de">hallo@lunchelot.de</a> oder nutzen Sie das <a href="https://lunchelot.de/#kontakt" target="_blank">Kontaktformular</a>. Wir melden uns so schnell wie möglich bei Ihnen!
+  
+<a href="https://lunchelot.de/">lunchelot.de</a>
