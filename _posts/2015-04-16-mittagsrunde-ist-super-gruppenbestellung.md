@@ -50,9 +50,9 @@ So sehen nur diejenigen die Mittagsrunde, die du eingeladen hast.
 ##Probiere es auch und starte zum nächsten Mittagessen eine Mittagsrunde!##
 
 Und sage uns, wie es dir gefallen hat - auch wenn es dir nicht gefallen hat!
-
-<a href=""></a>
-
+  
+<a href="https://lunchelot.de/">lunchelot.de</a>
+  
 [Wie man eine Mittagsrunde organisiert, kannst Du hier nachlesen.]({{site.baseurl}}handbuch/user/02_lunchelot-mittagsrunde-erklaert/)
 
 {% include twitter_plug.html %}
