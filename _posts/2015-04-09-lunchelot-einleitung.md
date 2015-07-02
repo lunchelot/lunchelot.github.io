@@ -87,7 +87,7 @@ Wenn Du Dich <strong>nicht</strong> angesprochen fühlst, gilt übrigens das Gle
 
 
 \- Arthur
-
+<a href="https://lunchelot.de/">lunchelot.de</a>
 
 <img src="{{site.baseurl}}assets/lunchelot-soup-pc-900.jpg" alt="Lunchelot" />
 
