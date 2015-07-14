@@ -6,7 +6,6 @@ description: Essen online bestellen - in der Mittagspause gut und trotzdem schne
 tags:
   - lunchelot
 published: true
-permalink: Lunchelot-In-den-Medien
 ---
 Wir hatten die Redakteure von Schwäbische.de und des Südkurier in der Küche unseres Partner Restaurants Traube am See in Friedrichshafen zu Gast. 
 
