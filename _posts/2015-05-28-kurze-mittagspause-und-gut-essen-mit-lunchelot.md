@@ -6,7 +6,7 @@ description: Essen online bestellen und Gruppenbestellungen einfach organisieren
 tags:
   - lunchelot
 published: true
-permalink: kurze-mittagspause-und-gut-essen-mit-lunchelot
+
 ---
 
  ... zunächst mit Fokus rund um Immenstaad am Bodensee. Was wird geboten?
