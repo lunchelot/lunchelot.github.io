@@ -7,6 +7,7 @@ tags:
   - lunchelot
   - gastro
 published: true
+permalink: Lunchelot-Erfolgsstory-Traube-am-See
 ---
 
 Die Traube hat uns, als erste Partner-Gastronomie von Lunchelot, viel Vertrauensvorschuß gegeben.
