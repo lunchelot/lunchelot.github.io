@@ -7,6 +7,7 @@ tags:
   - lunchelot
   - partner
 published: true
+permalink: Gessler-1862-in-Friedrichshafen-bei-Lunchelot
 ---
 
 Wir freuen uns, dass __Gessler 1862 in Friedrichshafen__ ab Dienstag, den 23. Juni 2015 auch für euch zum Vorbestellen zur Verfügung steht! 
