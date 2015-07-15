@@ -3,10 +3,13 @@ layout: post
 title: Lunch TuGo  - leckeres für unterwegs und büro.
 category: lunchelot
 description: Lunchelot TuGo - Sandwiches to go in Friedrichshafen, Immenstaad. Schnell und gut essen in der Mittagspause.
-tags: - lunchelot
+tags:
+  - lunchelot
+  - Lunch TuGo
 published: false
 permalink: Lunch-TuGo-leckeres für unterwegs und büro
 ---
+
 
 __Ab sofort kannst du in Friedrichshafen und Umgebung richtig gute und gesunde Sandwiches von <a href="https://lunchelot.de/tugo" target="_blank">Lunch TuGo</a> bestellen!__ 
 
