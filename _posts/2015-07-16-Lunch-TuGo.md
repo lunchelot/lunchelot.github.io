@@ -1,17 +1,19 @@
 ---
 layout: post
-title: Lunch TuGo  - leckeres für unterwegs und büro.
+title: Lunch TuGo - leckeres für unterwegs und büro. Perfektes Essen zum mitnehmen!
 category: lunchelot
-description: Lunchelot TuGo - Sandwiches to go in Friedrichshafen, Immenstaad. Schnell und gut essen in der Mittagspause.
+description: Lunchelot TuGo - Sandwiches to go in Friedrichshafen, Immenstaad. Schnell und gut essen in der Mittagspause. Perfekts Essen zum mitnehmen!
 tags:
   - lunchelot
-  - Lunch TuGo
-published: false
-permalink: Lunch-TuGo-leckeres für unterwegs und büro
+  - lunchtugo
+published: true
+permalink: Lunch-TuGo-leckeres-fuer-unterwegs-und-buero
 ---
 
 
 __Ab sofort kannst du in Friedrichshafen und Umgebung richtig gute und gesunde Sandwiches von <a href="https://lunchelot.de/tugo" target="_blank">Lunch TuGo</a> bestellen!__ 
+
+<img style="width: 50%; margin: 0 auto;" src="{{site.baseurl}}assets/TuGo/lunchelot-tugo-logo-dark-lecker.png" alt="Lunch TuGo - der neue service für leckeres für unterwegs und büro" />
 
 Das Wetter lädt dazu ein draußen in der Sonne oder einem schattigen Plätzchen am See die Mittagspause zu genießen - da kommen unsere neuen Sandwiches TuGo gerade richtig!
 
@@ -23,6 +25,7 @@ __Du möchtest unsere TuGo Boxen auch in Dein Büro geliefert bekommen?__ Schrei
 Die __<a href="http://www.traubeamsee.de/" title="Traube am See in Friedrichshafen" target="_blank">Traube am See in Friedrichshafen</a>__ hat zusammen mit __<a href="https://lunchelot.de/" title="Lunchelot " target="_blank">Lunchelot </a>__ diesen Sandwich TuGo Service gestartet. Das heißt du und deine KollegInnen könnt euch auf leckere Brötchen mit ausgewähltem, gesunden und regionalem Belag freuen, dazu gibt es einen Dip und einen Nachtisch, wie zum Beispiel frisches Obst!
 
 <img src="{{site.baseurl}}assets/TuGo/LunchTuGo1.jpg" alt="Sandwich TuGo schnelle udn gesunde Mittagspause im Büro" />
+
 <!-- more -->
 
 ##Lunch TuGo Qualität und Frische 
@@ -42,7 +45,7 @@ Durch unsere __Verpackungen__ möchten wir die __Umwelt so wenig wie möglich be
 ##Lunch TuGo für ein rundum gutes Gefühl
 Aus diesen Gründen kosten unsere Sandwiches etwas mehr als im Supermarkt, aber ihr könnt euch sicher sein __etwas Gutes für euch zu tun__.  Denn Nahrungsmittel sind wertvoll und der Treibstoff unseres Körpers. 
 
-<img src="{{site.baseurl}}mittagsrunde-brotkorb-fuer-dich.jpg" alt="Sandwich TuGo für eure Mittagspause im Büro" />
+<img src="{{site.baseurl}}assets/TuGo/LunchTugoBox.jpg" alt="Sandwich TuGo für eure Mittagspause im Büro" />
 
 ## Du möchtest unsere TuGo Boxen auch in Dein Büro geliefert bekommen? E-Mail an <a href="mailto:hallo@lunchelot.de">hallo@lunchelot.de</a>  wir melden uns und vereinbaren alles weitere!
 
