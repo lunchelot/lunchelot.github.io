@@ -66,3 +66,7 @@ __Lese-Tipps:__
 
 <br>
 <a href="https://lunchelot.de/">lunchelot.de</a>
+
+{% include twitter_plug.html %}
+
+{% include image_ref.html %}
