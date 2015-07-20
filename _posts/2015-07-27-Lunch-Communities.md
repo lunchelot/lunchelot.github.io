@@ -59,9 +59,10 @@ Bei Fragen schreibt uns an <a href="mailto:hallo@lunchelot.de">hallo@lunchelot.d
 
 <br>
 __Lese-Tipps:__
-Ted Talk von Margaret Heffernan: Why it's time to forget the pecking order at work <a href="https://www.youtube.com/watch?v=Vyn_xLrtZaY ">TED Talk Margaret Heffernan</a>
-Zeit Artikel vom 5. Februar 2015 “: <a href="http://www.zeit.de/karriere/beruf/2014-12/altersgemischte-teams-innovationen">Jung + alt = innovativ</a>
-Deloitte: “Global Human Capital Trends 2015 - Leading in the new world of work” (Deutsch) <a href="http://www2.deloitte.com/de/de/pages/human-capital/articles/global-human-capital-trends-2015.html">Deloitte HR Studie 2015</a>
+  
+* Ted Talk von Margaret Heffernan: Why it's time to forget the pecking order at work <a href="https://www.youtube.com/watch?v=Vyn_xLrtZaY ">TED Talk Margaret Heffernan</a>
+* Zeit Artikel vom 5. Februar 2015 “: <a href="http://www.zeit.de/karriere/beruf/2014-12/altersgemischte-teams-innovationen">Jung + alt = innovativ</a>
+* Deloitte: “Global Human Capital Trends 2015 - Leading in the new world of work” (Deutsch) <a href="http://www2.deloitte.com/de/de/pages/human-capital/articles/global-human-capital-trends-2015.html">Deloitte HR Studie 2015</a>
 
 <br>
 <a href="https://lunchelot.de/">lunchelot.de</a>
