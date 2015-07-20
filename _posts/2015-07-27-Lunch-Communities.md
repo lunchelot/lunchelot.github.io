@@ -36,7 +36,7 @@ Lesen Sie hierzu auch diesen Artikel in der Zeit <a href="http://www.zeit.de/kar
 
 Etablieren Sie zum Beispiel __einen Tag in der Woche__, an dem die Mitarbeiter gemeinsam bei einem Lieferdienst bestellen und in Räumlichkeiten des Unternehmens, oder einem Park __gemeinsam essen können__. So kommen leicht immer wieder neue Konstellationen zusammen, und Mitarbeiter, die sich bisher nicht so gut kannten, kommen ins Gespräch. Oder __kombinieren Sie den Tag mit Vorträgen oder gezieltem Austausch zu einem Thema.__
 
-## Lunchelot hilft Ihnen dabei
+## <img src="{{site.baseurl}}assets/logo-dark.png" alt="Lunchelot"/> hilft Ihnen dabei
 
 Legen Sie in Lunchelot eine __Lunch Community für Ihr Unternehmen an__. In dieser Community können Sie __Mittagsrunden anlegen und gezielt Mitarbeiter dazu einladen__. Oder __Ihre Mitarbeiter können selbst Mittagsrunden organisieren__. 
 
