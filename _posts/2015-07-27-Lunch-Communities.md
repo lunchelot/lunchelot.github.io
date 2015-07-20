@@ -19,7 +19,7 @@ Kommunikation innerhalb des Unternehmens ist sehr wichtig. Um Synergien nutzen z
 Soziale Bindungen sind notwendig, um Ideen fließen lassen zu können.
 __Leistungsfähige Teams zeichnen sich durch Empathie aus__. Teammitglieder erkennen die Fähigkeiten des einzelnen Mitglieds an, Redebeiträge werden gleich bewertet und geschätzt. Diese Erkenntnis wurde in Experimenten mit verschiedenen Teams bestätigt.
 
-<img src="{{site.baseurl}}assets/Mittagsrunde.jpg" alt="Mittagsrunde Lunchelot Lunch Community" />
+<img src="{{site.baseurl}}assets/gemeinsam-mittagessen.jpg" alt="Mittagsrunde Lunchelot Lunch Community" />
 
 <!-- more -->
 
