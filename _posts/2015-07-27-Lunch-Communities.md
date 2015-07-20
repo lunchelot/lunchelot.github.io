@@ -69,6 +69,3 @@ __Lese-Tipps:__
 
 Hinterlasse uns Feedback auf unserer <a href="https://www.facebook.com/pages/Lunchelot/817285571685255">Facebook Seite</a> oder unserem <a href="https://twitter.com/LunchelotDE">Twitter</a> channel!
 
-{% include twitter_plug.html %}
-
-{% include image_ref.html %}
