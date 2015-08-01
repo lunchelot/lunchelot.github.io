@@ -10,7 +10,7 @@ published: true
 permalink: Lunch-TuGo-Sandwich-bestellen-und-abholen
 ---
 
-Leckere und gesunde Sandwiches von <a target="_blank" href="https://lunchelot.de/tugo">Lunch TuGo</a> ab sofort für alle __Montags__
+Leckere und gesunde Sandwiches von <a target="_blank" href="https://lunchelot.de/tugo">Lunch TuGo</a> ab sofort __Montags__
 und __Freitags__ in Friedrichshafen, Immenstaad und Umgebung!
 Lunchboxen bequem mit Lunchelot.de Gruppenbestellsystem online bestellen und abholen. __So funktioniert's!__
 
@@ -24,8 +24,8 @@ Morgens bis __09:45 Uhr__ zusammen mit Kollegen bestellen und zur Mittagszeit ab
 
 ### <a target="_blank" href="https://lunchelot.de/tugo">Informiere Dich hier über __Lunch TuGo__ und die leckeren Sandwiches</a>
 
-Mit Lunchelot.de können <a href="http://blog.lunchelot.de/handbuch/user/lunchelot-was-ist-eine-mittagsrunde.html">Gruppenbestellungen</a> spielend einfach abgewickelt werden.
-So kann z.B. im Büro jeder selbst bequem auswählen was er am liebsten essen möchte. Ohne Zettelwirtschaft und herumlaufen durch die Büros.
+Mit Lunchelot.de könnt ihr einfach zusammen <a href="http://blog.lunchelot.de/handbuch/user/lunchelot-was-ist-eine-mittagsrunde.html">Gruppenbestellungen</a> vornehmen.
+So kann z.B. im Büro jeder selbst bequem auswählen was er am liebsten essen möchte von seinem/ ihrem PC aus. Zettelwirtschaft und herumlaufen durch die Büros, um alle Bestellungen bei den Kollegen abzufragen erledigt sich.
 
 <a target="_blank" href="http://blog.lunchelot.de/handbuch/user/lunchelot-was-ist-eine-mittagsrunde.html">Warum wir Mittagsrunden und Gruppenbestellungen super finden? Klick!</a>
 
@@ -33,7 +33,7 @@ So kann z.B. im Büro jeder selbst bequem auswählen was er am liebsten essen m�
 
 ## So funktioniert die Bestellung mit <a href="https://lunchelot.de">Lunchelot</a> Schritt für Schritt:
 
-Einfach Mittagsrunde öffnen, Kollegen einladen und gemeinsam Mittagspause planen!
+Einfach Mittagsrunde öffnen, Kollegen einladen und gemeinsam die Mittagspause genießen!
 
 ### 1. Bei <a href="https://lunchelot.de/signin">Lunchelot.de</a> einloggen oder Account erstellen, falls noch nicht geschehen.
 
@@ -44,18 +44,18 @@ Achte beim Datum darauf, dass ein __Montag__ oder __Freitag__ eingestellt ist.
 
 <img src="{{site.baseurl}}assets/tugo_bestellen/tugo-bestellen-1.jpg" alt="Mittagsrunde anlegen" />
 ### 3. Kollegen im Büro zur Mittagsrunde einladen.
-So könnt ihr Eure Mittagspause gemeinsam planen und abholen. Einfach die E-Mail Adresse der Kollegen eintragen.
+Einfach die E-Mail Adresse der Kollegen eintragen. So könnt ihr euer Essen gemeinsam bestellen und abholen. 
 
 <img src="{{site.baseurl}}assets/tugo_bestellen/tugo-bestellen-2.png" alt="Mittagsrunde anlegen" />
 ### 4. Eines der <a target="_blank" href="https://lunchelot.de/tugo">leckeren Sandwiches</a> aus dem Menü auswählen.
 
 <img src="{{site.baseurl}}assets/tugo_bestellen/tugo-bestellen-3.png" alt="Sandwich auswählen" />
-### 5. _Wichtig:_ Bestellung bis __09:45 Uhr__ absenden.
+### 5. _Wichtig:_ Bestellung bis __09:45 Uhr__ absenden. Unsere Küche braucht diese frühe Bestellzeit, weil die Sandwiches frisch nach Bestellung zubereitet werden.
 
 Anschließend auf "__Weiter zum Bestellen__" klicken und Bestellung prüfen.
 
 Mit einem Klick auf "__Jetzt Bestellen__" übermittelst Du die Bestellung verbindlich.
-### 6. Zur geplanten Uhrzeit Lunchboxen abholen und Essen genießen.
+### 6. Zur geplanten Uhrzeit Lunchboxen abholen und die Mittagspause genießen.
 
 Jetzt kann sich noch jemand mit einem Klick auf _"Ich hole ab"_ zum abholen eurer Gruppenbestellung bereit erklären. Und damit zum Mittagsrunden Helden des Büros werden :-)
 Oder ihr fahrt gemeinsam und genießt das schöne Wetter im Freien am See.
