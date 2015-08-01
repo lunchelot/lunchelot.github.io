@@ -5,7 +5,7 @@ category: lunchelot
 description: Lunch Communities - Kommunikation im Unternehmen fördern mit Lunchelot
 tags:
   - lunchelot
-published: false
+published: true
 permalink: Lunch Communities - Kommunikation im Unternehmen fördern mit Lunchelot
 ---
 
@@ -23,7 +23,8 @@ __Leistungsfähige Teams zeichnen sich durch Empathie aus__. Teammitglieder erke
 
 <!-- more -->
 
-Wichtig für die Personalarbeit ist hierbei, dass __Mitarbeiter sich kennen müssen, um eine Teamstruktur bilden zu können, die funktioniert__. Diese __Zeit zum Kennenlernen sollte investiert werden__. Daher __unterstützen viele Unternehmen den Austausch zwischen den Mitarbeitern in der Kaffeeküche oder beim Mittagessen__. So können auch die Kommunikations-Silos zwischen Abteilungen aufgebrochen werden. Zu diesem Thema gibt es einen interessanten Beitrag von Margaret Heffernan bei TED (in Englisch):  <a href="https://www.youtube.com/watch?v=Vyn_xLrtZaY ">TED Talk Margaret Heffernan</a>
+Wichtig für die Personalarbeit ist hierbei, dass __Mitarbeiter sich kennen müssen, um eine Teamstruktur bilden zu können, die funktioniert__. Diese __Zeit zum Kennenlernen sollte investiert werden__. Daher __unterstützen viele Unternehmen den Austausch zwischen den Mitarbeitern in der Kaffeeküche oder beim Mittagessen__. So können auch die Kommunikations-Silos zwischen Abteilungen aufgebrochen werden. Zu diesem Thema gibt es einen interessanten Beitrag von Margaret Heffernan bei TED (in Englisch):
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vyn_xLrtZaY" frameborder="0" allowfullscreen></iframe>
 
 
 *Fun Fact: Steve Jobs hat die Küche und die Toiletten bei Apple in die Mitte des Gebäudes bauen lassen – sodass sich alle Mitarbeiter begegnen können.*
