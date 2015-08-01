@@ -19,12 +19,14 @@ Lunchboxen bequem online bestellen und abholen. __So funktioniert's!__
 <!-- more -->
 
 Die leckeren [Lunch TuGo Sandwich Boxen]({{site.url}}/Lunch-TuGo-leckeres-fuer-unterwegs-und-buero)
-sind ab sofort __Montags__ und __Freitags__ über Lunchelot.de bestellbar.
+sind ab sofort __Montags__ und __Freitags__ über <a href="https://lunchelot.de">Lunchelot.de</a> bestellbar.
 Morgens bis __09:45 Uhr__ bestellen und zur Mittagszeit abholen.
 
-## So funktioniert die Bestellung mit Lunchelot Schritt für Schritt:
+### <a target="_blank" href="https://lunchelot.de/tugo">Informiere Dich hier über __Lunch TuGo__ und die leckeren Sandwiches</a>
 
-### 1. Bei Lunchelot einloggen oder Account erstellen, falls noch nicht geschehen.
+## So funktioniert die Bestellung mit <a href="https://lunchelot.de">Lunchelot<a> Schritt für Schritt:
+
+### 1. Bei <a href="https://lunchelot.de/signin">Lunchelot<a> einloggen oder Account erstellen, falls noch nicht geschehen.
 
 <img src="{{site.baseurl}}assets/tugo_bestellen/tugo-bestellen-login.png" width="200" alt="Mittagsrunde anlegen" />
 
