@@ -30,7 +30,7 @@ Wichtig für die Personalarbeit ist hierbei, dass __Mitarbeiter sich kennen müs
 
 ##Austausch fördern zwischen Jung und Alt
 In Deutschland ist das Thema __älter werdender Belegschaften__ aktuell. Unternehmen und auch die öffentliche Hand stehen vor der Herausforderungen, dass __viele Mitarbeiter 55+ sind und das Unternehmen in absehbarer Zeit verlassen werden__. Diese Mitarbeiter haben meist __großes Erfahrungswissen__ zu ihrem Aufgabenbereich, den  __Unternehmen nicht verlieren möchten__. Den __Austausch zwischen Jung und Alt__ sollte man deshalb __gezielt herbeiführen__, um den Wissenstransfer sicher zu stellen. Dafür bietet sich die zwanglose Atmosphäre eines Mittagessens an.
-Lesen Sie hierzu auch diesen Artikel in der Zeit <a href="http://www.zeit.de/karriere/beruf/2014-12/altersgemischte-teams-innovationen">Jung + alt = innovativ</a>
+Lesen Sie hierzu auch diesen Artikel in der Wochenzeitung DIE ZEIT <a href="http://www.zeit.de/karriere/beruf/2014-12/altersgemischte-teams-innovationen">Jung + alt = innovativ</a>
   
 *Fun Fact: Steve Jobs hat die Küche und die Toiletten bei Apple in die Mitte des Gebäudes bauen lassen – sodass sich alle Mitarbeiter begegnen können.*
 
@@ -64,7 +64,7 @@ Bei Fragen schreibt uns an <a href="mailto:hallo@lunchelot.de">hallo@lunchelot.d
 __Lese-Tipps:__
   
 * Ted Talk von Margaret Heffernan: Why it's time to forget the pecking order at work <a href="https://www.youtube.com/watch?v=Vyn_xLrtZaY ">TED Talk Margaret Heffernan</a>
-* Zeit Artikel vom 5. Februar 2015 “: <a href="http://www.zeit.de/karriere/beruf/2014-12/altersgemischte-teams-innovationen">Jung + alt = innovativ</a>
+* DIE ZEIT Artikel vom 5. Februar 2015 “: <a href="http://www.zeit.de/karriere/beruf/2014-12/altersgemischte-teams-innovationen">Jung + alt = innovativ</a>
 * Deloitte: “Global Human Capital Trends 2015 - Leading in the new world of work” (Deutsch) <a href="http://www2.deloitte.com/de/de/pages/human-capital/articles/global-human-capital-trends-2015.html">Deloitte HR Studie 2015</a>
 
 <br>
