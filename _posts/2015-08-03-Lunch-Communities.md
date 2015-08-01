@@ -44,7 +44,8 @@ Legen Sie in Lunchelot eine __Lunch Community für Ihr Unternehmen an__. In dies
 
 Sie können __Lunchelot einfach bedienen und verwalten__. 
 
-__Wie funktioniert‘s?__
+<p class="message">
+  __Wie funktioniert‘s?__
   
 * Lunchcommunity für Ihr Unternehmen, Ihren Standort oder  
 Interessensgruppe anlegen
@@ -55,6 +56,7 @@ Interessensgruppe anlegen
 
 * Ihre Mitarbeiter zu dieser Community einladen, indem Sie ihre E- Mailadressen eintippen oder einen Link zu Lunchelot an die Mitarbeiter versenden
 * Bestellungen einfach verwalten
+</p>
 
 <br>
 Bei Fragen schreibt uns an <a href="mailto:hallo@lunchelot.de">hallo@lunchelot.de</a>
