@@ -34,7 +34,7 @@ Lesen Sie hierzu auch diesen Artikel in der Zeit <a href="http://www.zeit.de/kar
   
 *Fun Fact: Steve Jobs hat die Küche und die Toiletten bei Apple in die Mitte des Gebäudes bauen lassen – sodass sich alle Mitarbeiter begegnen können.*
 
-__Steigern auch Sie das Sozialkapital Ihres Unternehmens__
+##Steigern auch Sie das Sozialkapital Ihres Unternehmens
 
 Etablieren Sie zum Beispiel __einen Tag in der Woche__, an dem die Mitarbeiter gemeinsam bei einem Lieferdienst bestellen und in Räumlichkeiten des Unternehmens, oder einem Park __gemeinsam essen können__. So kommen leicht immer wieder neue Konstellationen zusammen, und Mitarbeiter, die sich bisher nicht so gut kannten, kommen ins Gespräch. Oder __kombinieren Sie den Tag mit Vorträgen oder gezieltem Austausch zu einem Thema.__
 
@@ -44,7 +44,7 @@ Legen Sie in Lunchelot eine __Lunch Community für Ihr Unternehmen an__. In dies
 
 Sie können __Lunchelot einfach bedienen und verwalten__. 
 
-  __Wie funktioniert‘s?__
+##Wie funktioniert‘s?
   
 * Lunchcommunity für Ihr Unternehmen, Ihren Standort oder  
 Interessensgruppe anlegen
