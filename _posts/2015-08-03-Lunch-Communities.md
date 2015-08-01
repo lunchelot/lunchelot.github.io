@@ -46,15 +46,15 @@ Sie können __Lunchelot einfach bedienen und verwalten__.
 
 ##Wie funktioniert‘s?
   
-* Lunchcommunity für Ihr Unternehmen, Ihren Standort oder  
-Interessensgruppe anlegen
+* __Lunchcommunity für Ihr Unternehmen, Ihren Standort oder Interessensgruppe anlegen__
 
-* Mittagsrunden anlegen
+* __Mittagsrunden anlegen__
 
-* Restaurant/Caterer auswählen bzw. Menu des Caterings eintippen
+* __Restaurant/Caterer auswählen bzw. Menu des Caterings eintippen__
 
-* Ihre Mitarbeiter zu dieser Community einladen, indem Sie ihre E- Mailadressen eintippen oder einen Link zu Lunchelot an die Mitarbeiter versenden
-* Bestellungen einfach verwalten
+* __Ihre Mitarbeiter zu dieser Community einladen, indem Sie ihre E- Mailadressen eintippen oder einen Link zu Lunchelot an die Mitarbeiter versenden__
+* __Bestellungen einfach verwalten__
+
 
 
 <br>
