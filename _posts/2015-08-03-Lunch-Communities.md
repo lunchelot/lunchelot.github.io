@@ -5,7 +5,7 @@ category: lunchelot
 description: Lunch Communities - Kommunikation im Unternehmen fördern mit Lunchelot
 tags:
   - lunchelot
-published: true
+published: false
 permalink: Lunch Communities - Kommunikation im Unternehmen fördern mit Lunchelot
 ---
 
