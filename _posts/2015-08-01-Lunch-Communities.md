@@ -12,7 +12,7 @@ permalink: Lunch Communities - Kommunikation im Unternehmen fördern mit Lunchel
 
 __Mitarbeiter vernetzen beim Mittagessen__
 
-Kommunikation innerhalb des Unternehmens ist sehr wichtig. Um Synergien nutzen zu können und gemeinsam besser werden zu können, müssen sich die Mitarbeiter gegenseitig kennen. So sinken die Barrieren sich mit kollegen auszutauschen und den Kollegen in der anderen Abteilung anzurufen, um zu sehen, ob es bei der aktuellen Aufgabe Schnittmengen gibt. Oder sich einen Rat zu holen. In der zwanglosen Atmosphäre eines Mittagessens kann ein solcher Austausch stattfinden. 
+Kommunikation innerhalb des Unternehmens ist sehr wichtig. Um Synergien nutzen zu können und gemeinsam besser werden zu können, müssen sich die __Mitarbeiter gegenseitig kennen__. So sinken die Barrieren sich mit Kollegen auszutauschen und den Kollegen in der anderen Abteilung anzurufen, um zu sehen, ob es bei der aktuellen Aufgabe Schnittmengen gibt. Oder sich einen Rat zu holen. In der __zwanglosen Atmosphäre eines Mittagessens kann ein solcher Austausch stattfinden__. 
 
 __Soziale Bindungen - der Schlüssel zum Erfolg__
 
