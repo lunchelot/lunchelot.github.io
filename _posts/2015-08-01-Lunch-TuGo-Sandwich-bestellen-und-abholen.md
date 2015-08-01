@@ -24,9 +24,9 @@ Morgens bis __09:45 Uhr__ bestellen und zur Mittagszeit abholen.
 
 ### <a target="_blank" href="https://lunchelot.de/tugo">Informiere Dich hier über __Lunch TuGo__ und die leckeren Sandwiches</a>
 
-## So funktioniert die Bestellung mit <a href="https://lunchelot.de">Lunchelot<a> Schritt für Schritt:
+## So funktioniert die Bestellung mit <a href="https://lunchelot.de">Lunchelot</a> Schritt für Schritt:
 
-### 1. Bei <a href="https://lunchelot.de/signin">Lunchelot<a> einloggen oder Account erstellen, falls noch nicht geschehen.
+### 1. Bei <a href="https://lunchelot.de/signin">Lunchelot.de</a> einloggen oder Account erstellen, falls noch nicht geschehen.
 
 <img src="{{site.baseurl}}assets/tugo_bestellen/tugo-bestellen-login.png" width="200" alt="Mittagsrunde anlegen" />
 
