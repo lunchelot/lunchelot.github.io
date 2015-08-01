@@ -26,13 +26,13 @@ __Leistungsfähige Teams zeichnen sich durch Empathie aus__. Teammitglieder erke
 Wichtig für die Personalarbeit ist hierbei, dass __Mitarbeiter sich kennen müssen, um eine Teamstruktur bilden zu können, die funktioniert__. Diese __Zeit zum Kennenlernen sollte investiert werden__. Daher __unterstützen viele Unternehmen den Austausch zwischen den Mitarbeitern in der Kaffeeküche oder beim Mittagessen__. So können auch die Kommunikations-Silos zwischen Abteilungen aufgebrochen werden. Zu diesem Thema gibt es einen interessanten Beitrag von Margaret Heffernan bei TED (in Englisch):
   
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Vyn_xLrtZaY" frameborder="0" allowfullscreen></iframe>
-
-
-*Fun Fact: Steve Jobs hat die Küche und die Toiletten bei Apple in die Mitte des Gebäudes bauen lassen – sodass sich alle Mitarbeiter begegnen können.*
+  
 
 ##Austausch fördern zwischen Jung und Alt
 In Deutschland ist das Thema __älter werdender Belegschaften__ aktuell. Unternehmen und auch die öffentliche Hand stehen vor der Herausforderungen, dass __viele Mitarbeiter 55+ sind und das Unternehmen in absehbarer Zeit verlassen werden__. Diese Mitarbeiter haben meist __großes Erfahrungswissen__ zu ihrem Aufgabenbereich, den  __Unternehmen nicht verlieren möchten__. Den __Austausch zwischen Jung und Alt__ sollte man deshalb __gezielt herbeiführen__, um den Wissenstransfer sicher zu stellen. Dafür bietet sich die zwanglose Atmosphäre eines Mittagessens an.
 Lesen Sie hierzu auch diesen Artikel in der Zeit <a href="http://www.zeit.de/karriere/beruf/2014-12/altersgemischte-teams-innovationen">Jung + alt = innovativ</a>
+  
+*Fun Fact: Steve Jobs hat die Küche und die Toiletten bei Apple in die Mitte des Gebäudes bauen lassen – sodass sich alle Mitarbeiter begegnen können.*
 
 __Steigern auch Sie das Sozialkapital Ihres Unternehmens__
 
