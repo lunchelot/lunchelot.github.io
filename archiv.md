@@ -1,11 +1,13 @@
 ---
 layout: page
 title: Blog Archiv
-navigation: true
 description: Lunchelot Blog Archiv - Alles über Lunchelot.de, Dein Mittagessen, Mittagstische in Deiner Umgebung finden und Gruppenbestellungen!
 ---
 
-## Hier findest Du alle bisher erschienenen Blog Artikel
+## Alle im Lunchelot Blog erschienenen Artikel
+<ul>
 {% for post in site.posts %}
-  * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
+
+<li><h2><a href="post.url" title="{{post.title}}">{{ post.title }}</a><h2></li>
 {% endfor %}
+ </ul>
