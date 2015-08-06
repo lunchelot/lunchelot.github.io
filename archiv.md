@@ -8,6 +8,6 @@ description: Lunchelot Blog Archiv - Alles über Lunchelot.de, Dein Mittagessen,
 <ul>
 {% for post in site.posts %}
 
-<li><h2><a href="post.url" title="{{post.title}}">{{ post.title }}</a><h2></li>
+<li><h2><a href="{{post.url}}" title="{{post.title}}">{{ post.title }}</a><h2></li>
 {% endfor %}
  </ul>
