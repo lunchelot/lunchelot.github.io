@@ -38,6 +38,8 @@ Lesen Sie hierzu auch diesen Artikel in der Wochenzeitung DIE ZEIT <a href="http
   
 *Fun Fact: Steve Jobs hat die Küche und die Toiletten bei Apple in die Mitte des Gebäudes bauen lassen – sodass sich alle Mitarbeiter begegnen können.*
 
+<img src="{{site.baseurl}}assets/logo-dark.png" alt="Lunchelot"/> hilft Ihnen dabei
+
 Legen Sie in Lunchelot eine __Lunch Community für Ihr Unternehmen an__. In dieser Community können Sie __Mittagsrunden anlegen und gezielt Mitarbeiter dazu einladen__. Oder __Ihre Mitarbeiter können selbst Mittagsrunden organisieren__. 
 
 Sie können __Lunchelot einfach bedienen und verwalten__. 
