@@ -57,7 +57,7 @@ Flugmango wird reif geerntet und per Luftfracht in das Zielland gebracht. Sie re
 ### Wo werden die Sandwiches und Burger hergestellt?
 
 <a target="_blank" href="https://lunchelot.de/tugo">Lunch TuGo</a> ist eine Kooperation zwischen <a target="_blank" href="https://lunchelot.de">Lunchelot.de</a> und der <a target="_blank" href="http://traubeamsee.de">Traube am See</a> in Friedrichshafen-Fischbach.
-Die Traube am See ist bekannt für ihre qualitativ hochwertige Küche und regionale Zutaten! Diese Prinzipien gelten auch für
+Die Traube am See ist bekannt für ihre qualitativ hochwertige Küche und regionale Zutaten! Diese Prinzipien gelten auch für die Lunch TuGo Lunchboxen!
 
 
 <img style=" margin: 0 auto;" src="{{site.baseurl}}assets/traube_erfolg/traube.jpg" alt="Traube am See in Fischbach Friedrichshafen" />
