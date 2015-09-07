@@ -18,10 +18,11 @@ __Smoked Pulled Pork Burger__ mit BBQ Dip, __Thai Burger__ auf Miie Nudelsalat m
 
 Lunch TuGo bietet ab Morgen neue Burger und Sandwiches an! Jetzt mit __zwei vegetarische/veganen__ Alternativen!
 
-### Das Angebot im September 2015:
+### Das Angebot im September 2015 (Immer Dienstags und Freitags)
 
 <!-- more -->
 
+Ins Bild klicken, um zur Lunch TuGo Seite zu kommen
 <a target="_blank" href="https://lunchelot.de/tugo"><img src="{{site.baseurl}}assets/TuGo/tugo-sandwiches-burger-september-2015.png" alt="Lunch TuGo Sandwiches September 2015" /></a>
 
 
